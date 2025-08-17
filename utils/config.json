@@ -8,20 +8,20 @@
         "conditioned_similarity_dir": "model_outputs/computed_conditioned_similarities/"
     },
     "model": {
-        "vqa_model": "LLaVA-OneVision-Qwen2-7B",
+        "vqa_model": "Qwen2.5-VL-7B-Instruct",
         "max_new_tokens": 1,
         "max_new_tokens_caption": 256
     },
     "experiment": {
         "comparison_approach": "bidirectional",
         "concept_name": "order_of_actions",
-        "shuffle_actions": true,
+        "shuffle_actions": false,
+        "shuffle_frames": false,
         "fps_factor": 1,
         "max_frames_num": 16,
         "use_llava_cot": false,
         "use_zs_cot": false,
         "visualize_frames": false,
-        "visualized_frames_dir": "visualizations/",
-        "latex_output_dir": ""
+        "visualized_frames_dir": "visualizations/"
     }
 }
