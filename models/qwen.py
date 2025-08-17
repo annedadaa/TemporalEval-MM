@@ -1,4 +1,5 @@
 import os
+import random
 from typing import List, Union
 
 import numpy as np
@@ -11,6 +12,10 @@ from qwen_vl_utils import process_vision_info
 
 from utils.config_constants import QWEN2_VL_MODELS
 from utils.image_utils import approximate_smart_resize, uniform_sample
+from utils.logger import get_logger
+
+
+logger = get_logger("Qwen Model Logger")
 
 
 class Qwen2VLModel:
@@ -35,9 +40,16 @@ class Qwen2VLModel:
             self.model_info["tokenizer"]["path"]
         )
 
+        if torch.cuda.is_available():
+            for i in range(torch.cuda.device_count()):
+                logger.info(f"GPU {i}: {torch.cuda.get_device_name(i)}")
+        else:
+            logger.error("No GPU available")
+
+
         self.model.eval()
 
-    def load_images(self, paths: List[str], max_frames_num: int, fps_factor: int = 1) \
+    def load_images(self, paths: List[str], max_frames_num: int, shuffle_frames: bool, fps_factor: int = 1) \
             -> List[Union[torch.Tensor, List[torch.Tensor]]]:
         processed_data = []
         target_size = None
@@ -45,6 +57,9 @@ class Qwen2VLModel:
         for path in paths:
             if path.lower().endswith((".mp4", ".avi", ".mov", ".mkv")):
                 frames = self.load_video(path, max_frames_num, fps_factor, target_size=target_size)
+
+                if shuffle_frames:
+                    random.shuffle(frames)
 
                 if target_size is None and len(frames) > 0:
                     target_size = frames[0].size
@@ -57,6 +72,8 @@ class Qwen2VLModel:
                     processed_data.append([image])
                 elif np_array.ndim == 4:
                     frames = [Image.fromarray(f.astype("uint8"), "RGB") for f in np_array]
+                    if shuffle_frames:
+                        random.shuffle(frames)
                     processed_data.append(frames)
                 else:
                     raise ValueError(f"Unexpected shape for NumPy array in {path}")
@@ -66,7 +83,7 @@ class Qwen2VLModel:
 
         return processed_data
 
-    def load_video(self, video_path, max_frames_num, fps_factor=1, target_size=None):
+    def load_video(self, video_path, max_frames_num, fps_factor=1, target_size=None) -> List[Image.Image]:
         if not os.path.exists(video_path):
             raise FileNotFoundError(f"Video file {video_path} not found.")
 

@@ -1,4 +1,5 @@
 import copy
+import random
 from typing import List, Optional, Union
 
 import numpy as np
@@ -13,6 +14,10 @@ from llava.mm_utils import process_images, tokenizer_image_token
 from llava.model.builder import load_pretrained_model
 
 from utils.config_constants import LLAVA_OV_MODELS
+from utils.logger import get_logger
+
+
+logger = get_logger("LLaVa Model Logger")
 
 
 class LLaVAOneVisionModel:
@@ -46,30 +51,30 @@ class LLaVAOneVisionModel:
 
         if torch.cuda.is_available():
             for i in range(torch.cuda.device_count()):
-                print(f"GPU {i}: {torch.cuda.get_device_name(i)}")
+                logger.info(f"GPU {i}: {torch.cuda.get_device_name(i)}")
         else:
-            print("No GPU available")
+            logger.error("No GPU available")
 
         self.model.eval()
 
     def load_images(
-        self, paths: List[str], num_frames: int = 16
+        self, paths: List[str], num_frames: int = 16, shuffle_frames: bool = False
     ) -> List[Union[torch.Tensor, List[torch.Tensor]]]:
         """
         Load images or videos from given paths and preprocess them.
         """
         processed_data = []
         for path in paths:
+            frames_tensor = None
             if path.lower().endswith((".mp4", ".avi", ".mov", ".mkv")):  # Video file
                 video_frames = self.load_video(path, num_frames)
-                frames = (
+                frames_tensor = (
                     self.processor.preprocess(video_frames, return_tensors="pt")[
                         "pixel_values"
                     ]
                     .half()
                     .to(self.device)
                 )
-                processed_data.append(frames)
             elif path.lower().endswith(".npy"):  # NumPy file
                 np_array = np.load(path)
                 if np_array.ndim == 3:  # Single image
@@ -94,7 +99,6 @@ class LLaVAOneVisionModel:
                         .half()
                         .to(self.device)
                     )
-                    processed_data.append(frames_tensor)
                 else:
                     raise ValueError(f"Unexpected shape for NumPy array in {path}")
             else:  # Regular image file
@@ -107,6 +111,15 @@ class LLaVAOneVisionModel:
                     for _image in image_tensor
                 ]
                 processed_data.append(image_tensor[0])
+            
+            # Handle frame shuffling here only if it's a batch of frames
+            if shuffle_frames and frames_tensor is not None and frames_tensor.ndim == 4:
+                indices = list(range(frames_tensor.shape[0]))
+                random.shuffle(indices)
+                frames_tensor = frames_tensor[indices]
+            
+            if frames_tensor is not None:
+                processed_data.append(frames_tensor)
 
         return processed_data
 
