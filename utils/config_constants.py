@@ -25,3 +25,24 @@ QWEN2_VL_MODELS = {
             },
     },
 }
+
+IMAGENET_MEAN = (0.485, 0.456, 0.406)
+IMAGENET_STD = (0.229, 0.224, 0.225)
+
+INTERN_VL_MODELS = {
+    "InternVL3-8b": {
+        "tokenizer": {
+            "path": "OpenGVLab/InternVL3-8B",
+            "trust_remote_code": True,
+            "use_fast": False,
+        },
+        "model": {
+            "pretrained_model_name_or_path": "OpenGVLab/InternVL3-8B",
+            "torch_dtype": torch.bfloat16,
+            "low_cpu_mem_usage": True,
+            "use_flash_attn": True,
+            "trust_remote_code": True,
+            "device_map": "auto",
+        },
+    },
+}
