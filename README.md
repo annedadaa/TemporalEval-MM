@@ -56,7 +56,7 @@ To run the similarities computation script on GPU, you can specify the exact GPU
 ```
 CUDA_VISIBLE_DEVICES=0,1 python -m baselines.compute_conditioned_similarities
 ```
-Outputs will be collected and stored in the _/model_outputs_ folder, in the respective subfolder given the experimental configuration. The output examples are presented in [model_outputs](https://github.com/annedadaa/TemporalEval-MM/tree/main/model_outputs/computed_conditioned_similarities/order_of_actions).
+Outputs will be collected and stored in the _/model_outputs_ folder, in the respective subfolder given the experimental configuration. The output examples are presented in the [output folder](https://github.com/annedadaa/TemporalEval-MM/tree/main/model_outputs/computed_conditioned_similarities/order_of_actions).
 
 Additionally, you can enable the visualization of the frames in the configuration file and they will be stored in the _/visualizations_ folder.
 
