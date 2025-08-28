@@ -1,0 +1,1836 @@
+2025-07-07 22:50:40,525 - INFO - Computing similarities with model: Qwen2.5-VL-7B-Instruct
+2025-07-07 22:50:40,525 - INFO - Output file: model_outputs/computed_conditioned_similarities/order_of_actions/Qwen2.5-VL-7B-Instruct/concatenate/16_frames/similarities.json
+2025-07-07 22:50:40,525 - INFO - Concept: order_of_actions
+2025-07-07 22:50:40,525 - INFO - Comparison Approach: concatenate
+2025-07-07 22:50:40,525 - INFO - Model: Qwen2.5-VL-7B-Instruct
+2025-07-07 22:50:40,526 - INFO - Processing video pair: videos/3863_003.mp4 and videos/883_000.mp4
+2025-07-07 22:50:42,986 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:42,987 - INFO - ----------------------
+2025-07-07 22:50:42,987 - INFO - Processing video pair: videos/3333_004.mp4 and videos/766_015.mp4
+2025-07-07 22:50:44,663 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:44,663 - INFO - ----------------------
+2025-07-07 22:50:44,663 - INFO - Processing video pair: videos/1291_001.mp4 and videos/1627_003.mp4
+2025-07-07 22:50:46,359 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:46,359 - INFO - ----------------------
+2025-07-07 22:50:46,359 - INFO - Processing video pair: videos/2221_012.mp4 and videos/25_007.mp4
+2025-07-07 22:50:48,034 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:48,034 - INFO - ----------------------
+2025-07-07 22:50:48,034 - INFO - Processing video pair: videos/2576_003.mp4 and videos/3234_001.mp4
+2025-07-07 22:50:50,045 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:50,045 - INFO - ----------------------
+2025-07-07 22:50:50,045 - INFO - Processing video pair: videos/3640_014.mp4 and videos/4492_002.mp4
+2025-07-07 22:50:51,670 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:51,670 - INFO - ----------------------
+2025-07-07 22:50:51,670 - INFO - Processing video pair: videos/108_005.mp4 and videos/1361_001.mp4
+2025-07-07 22:50:53,623 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:53,623 - INFO - ----------------------
+2025-07-07 22:50:53,623 - INFO - Processing video pair: videos/3225_000.mp4 and videos/4530_000.mp4
+2025-07-07 22:50:55,174 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:55,174 - INFO - ----------------------
+2025-07-07 22:50:55,174 - INFO - Processing video pair: videos/1403_019.mp4 and videos/2535_019.mp4
+2025-07-07 22:50:57,003 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:57,003 - INFO - ----------------------
+2025-07-07 22:50:57,004 - INFO - Processing video pair: videos/6077_001.mp4 and videos/6077_003.mp4
+2025-07-07 22:50:58,681 - INFO - Processed Answer: ['3']
+2025-07-07 22:50:58,681 - INFO - ----------------------
+2025-07-07 22:50:58,681 - INFO - Processing video pair: videos/6302_016.mp4 and videos/2349_013.mp4
+2025-07-07 22:51:00,223 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:00,223 - INFO - ----------------------
+2025-07-07 22:51:00,223 - INFO - Processing video pair: videos/1159_001.mp4 and videos/2197_002.mp4
+2025-07-07 22:51:02,197 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:02,197 - INFO - ----------------------
+2025-07-07 22:51:02,197 - INFO - Processing video pair: videos/2852_011.mp4 and videos/3325_003.mp4
+2025-07-07 22:51:03,848 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:03,848 - INFO - ----------------------
+2025-07-07 22:51:03,848 - INFO - Processing video pair: videos/1525_004.mp4 and videos/2110_006.mp4
+2025-07-07 22:51:05,451 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:05,451 - INFO - ----------------------
+2025-07-07 22:51:05,451 - INFO - Processing video pair: videos/2828_008.mp4 and videos/3815_008.mp4
+2025-07-07 22:51:07,361 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:07,361 - INFO - ----------------------
+2025-07-07 22:51:07,361 - INFO - Processing video pair: videos/2105_004.mp4 and videos/4083_005.mp4
+2025-07-07 22:51:08,942 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:08,942 - INFO - ----------------------
+2025-07-07 22:51:08,942 - INFO - Processing video pair: videos/1492_002.mp4 and videos/836_002.mp4
+2025-07-07 22:51:10,609 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:10,609 - INFO - ----------------------
+2025-07-07 22:51:10,610 - INFO - Processing video pair: videos/1645_002.mp4 and videos/1645_003.mp4
+2025-07-07 22:51:12,301 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:12,301 - INFO - ----------------------
+2025-07-07 22:51:12,301 - INFO - Processing video pair: videos/836_000.mp4 and videos/836_002.mp4
+2025-07-07 22:51:13,980 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:13,980 - INFO - ----------------------
+2025-07-07 22:51:13,980 - INFO - Processing video pair: videos/146_012.mp4 and videos/2946_002.mp4
+2025-07-07 22:51:15,658 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:15,658 - INFO - ----------------------
+2025-07-07 22:51:15,658 - INFO - Processing video pair: videos/2486_001.mp4 and videos/2636_003.mp4
+2025-07-07 22:51:17,246 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:17,246 - INFO - ----------------------
+2025-07-07 22:51:17,246 - INFO - Processing video pair: videos/2105_005.mp4 and videos/4083_006.mp4
+2025-07-07 22:51:18,846 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:18,846 - INFO - ----------------------
+2025-07-07 22:51:18,846 - INFO - Processing video pair: videos/5567_005.mp4 and videos/148_002.mp4
+2025-07-07 22:51:20,457 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:20,457 - INFO - ----------------------
+2025-07-07 22:51:20,457 - INFO - Processing video pair: videos/3333_004.mp4 and videos/3506_013.mp4
+2025-07-07 22:51:22,203 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:22,203 - INFO - ----------------------
+2025-07-07 22:51:22,203 - INFO - Processing video pair: videos/3689_007.mp4 and videos/4349_001.mp4
+2025-07-07 22:51:24,065 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:24,065 - INFO - ----------------------
+2025-07-07 22:51:24,065 - INFO - Processing video pair: videos/3041_005.mp4 and videos/3234_001.mp4
+2025-07-07 22:51:25,879 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:25,879 - INFO - ----------------------
+2025-07-07 22:51:25,879 - INFO - Processing video pair: videos/1086_015.mp4 and videos/1612_010.mp4
+2025-07-07 22:51:27,816 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:27,816 - INFO - ----------------------
+2025-07-07 22:51:27,817 - INFO - Processing video pair: videos/2231_008.mp4 and videos/6512_006.mp4
+2025-07-07 22:51:29,398 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:29,399 - INFO - ----------------------
+2025-07-07 22:51:29,399 - INFO - Processing video pair: videos/3772_006.mp4 and videos/6152_006.mp4
+2025-07-07 22:51:31,008 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:31,008 - INFO - ----------------------
+2025-07-07 22:51:31,008 - INFO - Processing video pair: videos/371_006.mp4 and videos/4172_010.mp4
+2025-07-07 22:51:32,696 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:32,696 - INFO - ----------------------
+2025-07-07 22:51:32,696 - INFO - Processing video pair: videos/2711_002.mp4 and videos/3325_000.mp4
+2025-07-07 22:51:34,692 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:34,692 - INFO - ----------------------
+2025-07-07 22:51:34,692 - INFO - Processing video pair: videos/2852_008.mp4 and videos/3325_003.mp4
+2025-07-07 22:51:36,432 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:36,433 - INFO - ----------------------
+2025-07-07 22:51:36,433 - INFO - Processing video pair: videos/2712_004.mp4 and videos/4075_003.mp4
+2025-07-07 22:51:38,067 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:38,067 - INFO - ----------------------
+2025-07-07 22:51:38,067 - INFO - Processing video pair: videos/2639_001.mp4 and videos/270_000.mp4
+2025-07-07 22:51:39,673 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:39,673 - INFO - ----------------------
+2025-07-07 22:51:39,673 - INFO - Processing video pair: videos/2139_003.mp4 and videos/2876_000.mp4
+2025-07-07 22:51:41,475 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:41,475 - INFO - ----------------------
+2025-07-07 22:51:41,475 - INFO - Processing video pair: videos/2353_012.mp4 and videos/572_006.mp4
+2025-07-07 22:51:43,240 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:43,240 - INFO - ----------------------
+2025-07-07 22:51:43,240 - INFO - Processing video pair: videos/4548_005.mp4 and videos/1525_005.mp4
+2025-07-07 22:51:44,851 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:44,851 - INFO - ----------------------
+2025-07-07 22:51:44,851 - INFO - Processing video pair: videos/2223_001.mp4 and videos/2223_002.mp4
+2025-07-07 22:51:46,456 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:46,456 - INFO - ----------------------
+2025-07-07 22:51:46,457 - INFO - Processing video pair: videos/1116_011.mp4 and videos/5935_001.mp4
+2025-07-07 22:51:48,114 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:48,114 - INFO - ----------------------
+2025-07-07 22:51:48,114 - INFO - Processing video pair: videos/3368_004.mp4 and videos/574_011.mp4
+2025-07-07 22:51:49,835 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:49,835 - INFO - ----------------------
+2025-07-07 22:51:49,835 - INFO - Processing video pair: videos/1734_007.mp4 and videos/4510_005.mp4
+2025-07-07 22:51:51,579 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:51,579 - INFO - ----------------------
+2025-07-07 22:51:51,579 - INFO - Processing video pair: videos/1291_001.mp4 and videos/2337_001.mp4
+2025-07-07 22:51:53,337 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:53,337 - INFO - ----------------------
+2025-07-07 22:51:53,337 - INFO - Processing video pair: videos/1746_003.mp4 and videos/4087_002.mp4
+2025-07-07 22:51:55,000 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:55,001 - INFO - ----------------------
+2025-07-07 22:51:55,001 - INFO - Processing video pair: videos/3997_012.mp4 and videos/4681_010.mp4
+2025-07-07 22:51:56,890 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:56,890 - INFO - ----------------------
+2025-07-07 22:51:56,890 - INFO - Processing video pair: videos/1553_010.mp4 and videos/589_014.mp4
+2025-07-07 22:51:58,637 - INFO - Processed Answer: ['3']
+2025-07-07 22:51:58,637 - INFO - ----------------------
+2025-07-07 22:51:58,637 - INFO - Processing video pair: videos/1203_004.mp4 and videos/409_029.mp4
+2025-07-07 22:52:00,598 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:00,599 - INFO - ----------------------
+2025-07-07 22:52:00,599 - INFO - Processing video pair: videos/1627_003.mp4 and videos/2546_003.mp4
+2025-07-07 22:52:02,270 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:02,270 - INFO - ----------------------
+2025-07-07 22:52:02,271 - INFO - Processing video pair: videos/6086_009.mp4 and videos/2258_003.mp4
+2025-07-07 22:52:04,084 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:04,084 - INFO - ----------------------
+2025-07-07 22:52:04,085 - INFO - Processing video pair: videos/2410_002.mp4 and videos/4530_004.mp4
+2025-07-07 22:52:06,004 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:06,004 - INFO - ----------------------
+2025-07-07 22:52:06,005 - INFO - Processing video pair: videos/1824_003.mp4 and videos/2848_000.mp4
+2025-07-07 22:52:07,592 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:07,592 - INFO - ----------------------
+2025-07-07 22:52:07,593 - INFO - Processing video pair: videos/2888_000.mp4 and videos/936_000.mp4
+2025-07-07 22:52:09,356 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:09,357 - INFO - ----------------------
+2025-07-07 22:52:09,357 - INFO - Processing video pair: videos/1268_018.mp4 and videos/4492_002.mp4
+2025-07-07 22:52:11,074 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:11,074 - INFO - ----------------------
+2025-07-07 22:52:11,074 - INFO - Processing video pair: videos/2125_019.mp4 and videos/2707_072.mp4
+2025-07-07 22:52:12,631 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:12,631 - INFO - ----------------------
+2025-07-07 22:52:12,632 - INFO - Processing video pair: videos/4210_011.mp4 and videos/6512_006.mp4
+2025-07-07 22:52:14,291 - INFO - Processed Answer: ['4']
+2025-07-07 22:52:14,292 - INFO - ----------------------
+2025-07-07 22:52:14,292 - INFO - Processing video pair: videos/2410_002.mp4 and videos/2630_003.mp4
+2025-07-07 22:52:16,157 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:16,157 - INFO - ----------------------
+2025-07-07 22:52:16,158 - INFO - Processing video pair: videos/1525_005.mp4 and videos/2110_001.mp4
+2025-07-07 22:52:17,793 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:17,793 - INFO - ----------------------
+2025-07-07 22:52:17,794 - INFO - Processing video pair: videos/3858_006.mp4 and videos/2268_002.mp4
+2025-07-07 22:52:19,695 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:19,696 - INFO - ----------------------
+2025-07-07 22:52:19,696 - INFO - Processing video pair: videos/1607_004.mp4 and videos/1607_009.mp4
+2025-07-07 22:52:21,446 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:21,447 - INFO - ----------------------
+2025-07-07 22:52:21,447 - INFO - Processing video pair: videos/45_007.mp4 and videos/45_018.mp4
+2025-07-07 22:52:23,063 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:23,063 - INFO - ----------------------
+2025-07-07 22:52:23,063 - INFO - Processing video pair: videos/1869_000.mp4 and videos/399_001.mp4
+2025-07-07 22:52:25,096 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:25,097 - INFO - ----------------------
+2025-07-07 22:52:25,097 - INFO - Processing video pair: videos/340_000.mp4 and videos/619_000.mp4
+2025-07-07 22:52:26,727 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:26,727 - INFO - ----------------------
+2025-07-07 22:52:26,727 - INFO - Processing video pair: videos/2410_002.mp4 and videos/2670_008.mp4
+2025-07-07 22:52:28,605 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:28,605 - INFO - ----------------------
+2025-07-07 22:52:28,605 - INFO - Processing video pair: videos/3689_002.mp4 and videos/495_001.mp4
+2025-07-07 22:52:30,500 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:30,500 - INFO - ----------------------
+2025-07-07 22:52:30,500 - INFO - Processing video pair: videos/1029_006.mp4 and videos/4485_008.mp4
+2025-07-07 22:52:32,170 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:32,170 - INFO - ----------------------
+2025-07-07 22:52:32,170 - INFO - Processing video pair: videos/2110_001.mp4 and videos/2110_006.mp4
+2025-07-07 22:52:33,818 - INFO - Processed Answer: ['4']
+2025-07-07 22:52:33,819 - INFO - ----------------------
+2025-07-07 22:52:33,819 - INFO - Processing video pair: videos/2852_010.mp4 and videos/46_002.mp4
+2025-07-07 22:52:35,661 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:35,661 - INFO - ----------------------
+2025-07-07 22:52:35,661 - INFO - Processing video pair: videos/1016_004.mp4 and videos/790_007.mp4
+2025-07-07 22:52:37,371 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:37,371 - INFO - ----------------------
+2025-07-07 22:52:37,371 - INFO - Processing video pair: videos/3104_007.mp4 and videos/176_002.mp4
+2025-07-07 22:52:39,217 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:39,218 - INFO - ----------------------
+2025-07-07 22:52:39,218 - INFO - Processing video pair: videos/2164_017.mp4 and videos/5553_005.mp4
+2025-07-07 22:52:40,784 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:40,784 - INFO - ----------------------
+2025-07-07 22:52:40,784 - INFO - Processing video pair: videos/1667_003.mp4 and videos/2731_001.mp4
+2025-07-07 22:52:42,670 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:42,670 - INFO - ----------------------
+2025-07-07 22:52:42,670 - INFO - Processing video pair: videos/1878_002.mp4 and videos/2544_001.mp4
+2025-07-07 22:52:44,523 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:44,523 - INFO - ----------------------
+2025-07-07 22:52:44,523 - INFO - Processing video pair: videos/1071_003.mp4 and videos/572_006.mp4
+2025-07-07 22:52:46,135 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:46,135 - INFO - ----------------------
+2025-07-07 22:52:46,135 - INFO - Processing video pair: videos/1920_003.mp4 and videos/2460_000.mp4
+2025-07-07 22:52:47,836 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:47,836 - INFO - ----------------------
+2025-07-07 22:52:47,836 - INFO - Processing video pair: videos/1449_002.mp4 and videos/2954_001.mp4
+2025-07-07 22:52:49,435 - INFO - Processed Answer: ['1']
+2025-07-07 22:52:49,436 - INFO - ----------------------
+2025-07-07 22:52:49,436 - INFO - Processing video pair: videos/205_006.mp4 and videos/508_003.mp4
+2025-07-07 22:52:51,131 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:51,131 - INFO - ----------------------
+2025-07-07 22:52:51,131 - INFO - Processing video pair: videos/1237_002.mp4 and videos/1692_001.mp4
+2025-07-07 22:52:52,745 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:52,745 - INFO - ----------------------
+2025-07-07 22:52:52,745 - INFO - Processing video pair: videos/1607_004.mp4 and videos/591_001.mp4
+2025-07-07 22:52:54,547 - INFO - Processed Answer: ['1']
+2025-07-07 22:52:54,547 - INFO - ----------------------
+2025-07-07 22:52:54,547 - INFO - Processing video pair: videos/1514_008.mp4 and videos/74_010.mp4
+2025-07-07 22:52:56,326 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:56,326 - INFO - ----------------------
+2025-07-07 22:52:56,326 - INFO - Processing video pair: videos/6195_006.mp4 and videos/862_023.mp4
+2025-07-07 22:52:57,959 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:57,960 - INFO - ----------------------
+2025-07-07 22:52:57,960 - INFO - Processing video pair: videos/1289_007.mp4 and videos/3578_003.mp4
+2025-07-07 22:52:59,745 - INFO - Processed Answer: ['3']
+2025-07-07 22:52:59,745 - INFO - ----------------------
+2025-07-07 22:52:59,745 - INFO - Processing video pair: videos/139_002.mp4 and videos/1606_003.mp4
+2025-07-07 22:53:01,655 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:01,656 - INFO - ----------------------
+2025-07-07 22:53:01,656 - INFO - Processing video pair: videos/2065_017.mp4 and videos/2580_009.mp4
+2025-07-07 22:53:03,264 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:03,264 - INFO - ----------------------
+2025-07-07 22:53:03,264 - INFO - Processing video pair: videos/2200_000.mp4 and videos/351_000.mp4
+2025-07-07 22:53:04,946 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:04,946 - INFO - ----------------------
+2025-07-07 22:53:04,947 - INFO - Processing video pair: videos/4700_002.mp4 and videos/1229_003.mp4
+2025-07-07 22:53:06,768 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:06,768 - INFO - ----------------------
+2025-07-07 22:53:06,768 - INFO - Processing video pair: videos/1206_000.mp4 and videos/2486_001.mp4
+2025-07-07 22:53:08,368 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:08,368 - INFO - ----------------------
+2025-07-07 22:53:08,369 - INFO - Processing video pair: videos/3215_011.mp4 and videos/1677_018.mp4
+2025-07-07 22:53:10,037 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:10,037 - INFO - ----------------------
+2025-07-07 22:53:10,037 - INFO - Processing video pair: videos/3520_015.mp4 and videos/793_010.mp4
+2025-07-07 22:53:11,708 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:11,708 - INFO - ----------------------
+2025-07-07 22:53:11,708 - INFO - Processing video pair: videos/2946_017.mp4 and videos/1018_004.mp4
+2025-07-07 22:53:13,561 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:13,561 - INFO - ----------------------
+2025-07-07 22:53:13,561 - INFO - Processing video pair: videos/4679_015.mp4 and videos/2349_015.mp4
+2025-07-07 22:53:15,151 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:15,151 - INFO - ----------------------
+2025-07-07 22:53:15,151 - INFO - Processing video pair: videos/1492_000.mp4 and videos/836_000.mp4
+2025-07-07 22:53:16,746 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:16,746 - INFO - ----------------------
+2025-07-07 22:53:16,747 - INFO - Processing video pair: videos/1754_005.mp4 and videos/4987_001.mp4
+2025-07-07 22:53:18,652 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:18,652 - INFO - ----------------------
+2025-07-07 22:53:18,652 - INFO - Processing video pair: videos/1645_000.mp4 and videos/1645_002.mp4
+2025-07-07 22:53:20,388 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:20,388 - INFO - ----------------------
+2025-07-07 22:53:20,389 - INFO - Processing video pair: videos/1645_003.mp4 and videos/4799_008.mp4
+2025-07-07 22:53:22,094 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:22,094 - INFO - ----------------------
+2025-07-07 22:53:22,095 - INFO - Processing video pair: videos/2164_013.mp4 and videos/4753_016.mp4
+2025-07-07 22:53:23,704 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:23,704 - INFO - ----------------------
+2025-07-07 22:53:23,704 - INFO - Processing video pair: videos/1303_002.mp4 and videos/3130_000.mp4
+2025-07-07 22:53:25,503 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:25,503 - INFO - ----------------------
+2025-07-07 22:53:25,503 - INFO - Processing video pair: videos/3038_003.mp4 and videos/726_004.mp4
+2025-07-07 22:53:27,270 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:27,270 - INFO - ----------------------
+2025-07-07 22:53:27,270 - INFO - Processing video pair: videos/1086_014.mp4 and videos/654_005.mp4
+2025-07-07 22:53:29,182 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:29,182 - INFO - ----------------------
+2025-07-07 22:53:29,182 - INFO - Processing video pair: videos/1897_000.mp4 and videos/2335_002.mp4
+2025-07-07 22:53:30,942 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:30,942 - INFO - ----------------------
+2025-07-07 22:53:30,942 - INFO - Processing video pair: videos/3671_003.mp4 and videos/1571_007.mp4
+2025-07-07 22:53:32,866 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:32,866 - INFO - ----------------------
+2025-07-07 22:53:32,866 - INFO - Processing video pair: videos/2283_020.mp4 and videos/3460_014.mp4
+2025-07-07 22:53:34,800 - INFO - Processed Answer: ['4']
+2025-07-07 22:53:34,800 - INFO - ----------------------
+2025-07-07 22:53:34,800 - INFO - Processing video pair: videos/2825_010.mp4 and videos/2630_003.mp4
+2025-07-07 22:53:36,412 - INFO - Processed Answer: ['4']
+2025-07-07 22:53:36,412 - INFO - ----------------------
+2025-07-07 22:53:36,412 - INFO - Processing video pair: videos/2198_011.mp4 and videos/2353_012.mp4
+2025-07-07 22:53:38,251 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:38,251 - INFO - ----------------------
+2025-07-07 22:53:38,252 - INFO - Processing video pair: videos/1558_004.mp4 and videos/2978_008.mp4
+2025-07-07 22:53:39,864 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:39,864 - INFO - ----------------------
+2025-07-07 22:53:39,865 - INFO - Processing video pair: videos/1553_010.mp4 and videos/4753_014.mp4
+2025-07-07 22:53:41,643 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:41,643 - INFO - ----------------------
+2025-07-07 22:53:41,643 - INFO - Processing video pair: videos/473_006.mp4 and videos/2258_003.mp4
+2025-07-07 22:53:43,457 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:43,457 - INFO - ----------------------
+2025-07-07 22:53:43,457 - INFO - Processing video pair: videos/4776_006.mp4 and videos/3243_009.mp4
+2025-07-07 22:53:45,126 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:45,126 - INFO - ----------------------
+2025-07-07 22:53:45,126 - INFO - Processing video pair: videos/2248_003.mp4 and videos/722_003.mp4
+2025-07-07 22:53:47,176 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:47,176 - INFO - ----------------------
+2025-07-07 22:53:47,177 - INFO - Processing video pair: videos/2048_002.mp4 and videos/885_001.mp4
+2025-07-07 22:53:48,839 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:48,839 - INFO - ----------------------
+2025-07-07 22:53:48,839 - INFO - Processing video pair: videos/3429_003.mp4 and videos/4347_005.mp4
+2025-07-07 22:53:50,555 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:50,555 - INFO - ----------------------
+2025-07-07 22:53:50,555 - INFO - Processing video pair: videos/1449_002.mp4 and videos/2353_003.mp4
+2025-07-07 22:53:52,166 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:52,166 - INFO - ----------------------
+2025-07-07 22:53:52,166 - INFO - Processing video pair: videos/1959_005.mp4 and videos/2539_000.mp4
+2025-07-07 22:53:53,800 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:53,800 - INFO - ----------------------
+2025-07-07 22:53:53,800 - INFO - Processing video pair: videos/1031_010.mp4 and videos/26_010.mp4
+2025-07-07 22:53:55,586 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:55,586 - INFO - ----------------------
+2025-07-07 22:53:55,586 - INFO - Processing video pair: videos/218_001.mp4 and videos/2248_003.mp4
+2025-07-07 22:53:57,445 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:57,446 - INFO - ----------------------
+2025-07-07 22:53:57,446 - INFO - Processing video pair: videos/1746_003.mp4 and videos/422_002.mp4
+2025-07-07 22:53:59,296 - INFO - Processed Answer: ['3']
+2025-07-07 22:53:59,296 - INFO - ----------------------
+2025-07-07 22:53:59,297 - INFO - Processing video pair: videos/108_005.mp4 and videos/2448_001.mp4
+2025-07-07 22:54:01,258 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:01,259 - INFO - ----------------------
+2025-07-07 22:54:01,259 - INFO - Processing video pair: videos/1607_004.mp4 and videos/623_001.mp4
+2025-07-07 22:54:02,976 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:02,977 - INFO - ----------------------
+2025-07-07 22:54:02,977 - INFO - Processing video pair: videos/3941_003.mp4 and videos/957_007.mp4
+2025-07-07 22:54:04,870 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:04,870 - INFO - ----------------------
+2025-07-07 22:54:04,870 - INFO - Processing video pair: videos/1514_008.mp4 and videos/2852_011.mp4
+2025-07-07 22:54:06,593 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:06,593 - INFO - ----------------------
+2025-07-07 22:54:06,593 - INFO - Processing video pair: videos/4679_015.mp4 and videos/176_002.mp4
+2025-07-07 22:54:08,394 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:08,394 - INFO - ----------------------
+2025-07-07 22:54:08,394 - INFO - Processing video pair: videos/883_000.mp4 and videos/883_008.mp4
+2025-07-07 22:54:10,131 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:10,131 - INFO - ----------------------
+2025-07-07 22:54:10,131 - INFO - Processing video pair: videos/1088_007.mp4 and videos/1754_005.mp4
+2025-07-07 22:54:12,000 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:12,000 - INFO - ----------------------
+2025-07-07 22:54:12,001 - INFO - Processing video pair: videos/2914_003.mp4 and videos/2978_008.mp4
+2025-07-07 22:54:13,596 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:13,596 - INFO - ----------------------
+2025-07-07 22:54:13,597 - INFO - Processing video pair: videos/1304_001.mp4 and videos/2164_004.mp4
+2025-07-07 22:54:15,227 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:15,228 - INFO - ----------------------
+2025-07-07 22:54:15,228 - INFO - Processing video pair: videos/1525_004.mp4 and videos/1525_005.mp4
+2025-07-07 22:54:16,839 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:16,839 - INFO - ----------------------
+2025-07-07 22:54:16,840 - INFO - Processing video pair: videos/3637_006.mp4 and videos/3815_008.mp4
+2025-07-07 22:54:18,853 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:18,853 - INFO - ----------------------
+2025-07-07 22:54:18,853 - INFO - Processing video pair: videos/6079_009.mp4 and videos/1554_012.mp4
+2025-07-07 22:54:20,798 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:20,798 - INFO - ----------------------
+2025-07-07 22:54:20,798 - INFO - Processing video pair: videos/2660_016.mp4 and videos/3520_016.mp4
+2025-07-07 22:54:22,536 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:22,537 - INFO - ----------------------
+2025-07-07 22:54:22,537 - INFO - Processing video pair: videos/589_014.mp4 and videos/589_016.mp4
+2025-07-07 22:54:24,171 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:24,171 - INFO - ----------------------
+2025-07-07 22:54:24,171 - INFO - Processing video pair: videos/6822_010.mp4 and videos/4530_004.mp4
+2025-07-07 22:54:25,816 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:25,816 - INFO - ----------------------
+2025-07-07 22:54:25,816 - INFO - Processing video pair: videos/3023_004.mp4 and videos/3210_010.mp4
+2025-07-07 22:54:27,749 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:27,749 - INFO - ----------------------
+2025-07-07 22:54:27,749 - INFO - Processing video pair: videos/2707_027.mp4 and videos/1018_004.mp4
+2025-07-07 22:54:29,347 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:29,347 - INFO - ----------------------
+2025-07-07 22:54:29,347 - INFO - Processing video pair: videos/1607_009.mp4 and videos/2660_016.mp4
+2025-07-07 22:54:31,115 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:31,115 - INFO - ----------------------
+2025-07-07 22:54:31,116 - INFO - Processing video pair: videos/4858_009.mp4 and videos/2065_017.mp4
+2025-07-07 22:54:32,780 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:32,780 - INFO - ----------------------
+2025-07-07 22:54:32,780 - INFO - Processing video pair: videos/1754_007.mp4 and videos/2385_006.mp4
+2025-07-07 22:54:34,501 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:34,501 - INFO - ----------------------
+2025-07-07 22:54:34,501 - INFO - Processing video pair: videos/1558_004.mp4 and videos/2300_009.mp4
+2025-07-07 22:54:36,141 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:36,141 - INFO - ----------------------
+2025-07-07 22:54:36,142 - INFO - Processing video pair: videos/2198_011.mp4 and videos/572_006.mp4
+2025-07-07 22:54:37,778 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:37,778 - INFO - ----------------------
+2025-07-07 22:54:37,778 - INFO - Processing video pair: videos/1029_002.mp4 and videos/1029_006.mp4
+2025-07-07 22:54:39,557 - INFO - Processed Answer: ['4']
+2025-07-07 22:54:39,557 - INFO - ----------------------
+2025-07-07 22:54:39,558 - INFO - Processing video pair: videos/2231_008.mp4 and videos/2737_020.mp4
+2025-07-07 22:54:41,179 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:41,179 - INFO - ----------------------
+2025-07-07 22:54:41,179 - INFO - Processing video pair: videos/1174_000.mp4 and videos/1667_003.mp4
+2025-07-07 22:54:42,885 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:42,886 - INFO - ----------------------
+2025-07-07 22:54:42,886 - INFO - Processing video pair: videos/2393_007.mp4 and videos/2268_002.mp4
+2025-07-07 22:54:44,719 - INFO - Processed Answer: ['1']
+2025-07-07 22:54:44,719 - INFO - ----------------------
+2025-07-07 22:54:44,719 - INFO - Processing video pair: videos/573_026.mp4 and videos/619_000.mp4
+2025-07-07 22:54:46,451 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:46,452 - INFO - ----------------------
+2025-07-07 22:54:46,452 - INFO - Processing video pair: videos/420_007.mp4 and videos/4762_011.mp4
+2025-07-07 22:54:48,329 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:48,329 - INFO - ----------------------
+2025-07-07 22:54:48,329 - INFO - Processing video pair: videos/1303_002.mp4 and videos/66_000.mp4
+2025-07-07 22:54:50,182 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:50,183 - INFO - ----------------------
+2025-07-07 22:54:50,183 - INFO - Processing video pair: videos/5854_000.mp4 and videos/4261_005.mp4
+2025-07-07 22:54:51,803 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:51,803 - INFO - ----------------------
+2025-07-07 22:54:51,803 - INFO - Processing video pair: videos/3234_000.mp4 and videos/375_000.mp4
+2025-07-07 22:54:53,563 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:53,563 - INFO - ----------------------
+2025-07-07 22:54:53,563 - INFO - Processing video pair: videos/4278_005.mp4 and videos/1855_000.mp4
+2025-07-07 22:54:55,327 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:55,327 - INFO - ----------------------
+2025-07-07 22:54:55,327 - INFO - Processing video pair: videos/3021_000.mp4 and videos/619_001.mp4
+2025-07-07 22:54:56,906 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:56,906 - INFO - ----------------------
+2025-07-07 22:54:56,906 - INFO - Processing video pair: videos/1645_000.mp4 and videos/3491_003.mp4
+2025-07-07 22:54:58,616 - INFO - Processed Answer: ['3']
+2025-07-07 22:54:58,616 - INFO - ----------------------
+2025-07-07 22:54:58,616 - INFO - Processing video pair: videos/1125_003.mp4 and videos/2197_002.mp4
+2025-07-07 22:55:00,780 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:00,780 - INFO - ----------------------
+2025-07-07 22:55:00,780 - INFO - Processing video pair: videos/3357_005.mp4 and videos/1855_000.mp4
+2025-07-07 22:55:02,599 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:02,599 - INFO - ----------------------
+2025-07-07 22:55:02,599 - INFO - Processing video pair: videos/1029_006.mp4 and videos/1715_013.mp4
+2025-07-07 22:55:04,263 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:04,263 - INFO - ----------------------
+2025-07-07 22:55:04,263 - INFO - Processing video pair: videos/3705_012.mp4 and videos/5918_002.mp4
+2025-07-07 22:55:06,115 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:06,115 - INFO - ----------------------
+2025-07-07 22:55:06,115 - INFO - Processing video pair: videos/3417_009.mp4 and videos/4530_004.mp4
+2025-07-07 22:55:07,954 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:07,954 - INFO - ----------------------
+2025-07-07 22:55:07,954 - INFO - Processing video pair: videos/1920_003.mp4 and videos/455_003.mp4
+2025-07-07 22:55:09,718 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:09,718 - INFO - ----------------------
+2025-07-07 22:55:09,718 - INFO - Processing video pair: videos/3215_007.mp4 and videos/3215_011.mp4
+2025-07-07 22:55:11,368 - INFO - Processed Answer: ['1']
+2025-07-07 22:55:11,368 - INFO - ----------------------
+2025-07-07 22:55:11,369 - INFO - Processing video pair: videos/1612_007.mp4 and videos/2946_017.mp4
+2025-07-07 22:55:13,441 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:13,441 - INFO - ----------------------
+2025-07-07 22:55:13,441 - INFO - Processing video pair: videos/74_007.mp4 and videos/74_010.mp4
+2025-07-07 22:55:15,087 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:15,088 - INFO - ----------------------
+2025-07-07 22:55:15,088 - INFO - Processing video pair: videos/1291_001.mp4 and videos/2546_003.mp4
+2025-07-07 22:55:16,845 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:16,845 - INFO - ----------------------
+2025-07-07 22:55:16,846 - INFO - Processing video pair: videos/1824_001.mp4 and videos/573_026.mp4
+2025-07-07 22:55:18,564 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:18,564 - INFO - ----------------------
+2025-07-07 22:55:18,564 - INFO - Processing video pair: videos/591_001.mp4 and videos/623_001.mp4
+2025-07-07 22:55:20,319 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:20,319 - INFO - ----------------------
+2025-07-07 22:55:20,319 - INFO - Processing video pair: videos/3460_014.mp4 and videos/5429_013.mp4
+2025-07-07 22:55:22,177 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:22,178 - INFO - ----------------------
+2025-07-07 22:55:22,178 - INFO - Processing video pair: videos/266_012.mp4 and videos/409_019.mp4
+2025-07-07 22:55:24,217 - INFO - Processed Answer: ['4']
+2025-07-07 22:55:24,217 - INFO - ----------------------
+2025-07-07 22:55:24,218 - INFO - Processing video pair: videos/1571_007.mp4 and videos/3740_005.mp4
+2025-07-07 22:55:26,055 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:26,056 - INFO - ----------------------
+2025-07-07 22:55:26,056 - INFO - Processing video pair: videos/1754_002.mp4 and videos/4987_001.mp4
+2025-07-07 22:55:27,876 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:27,876 - INFO - ----------------------
+2025-07-07 22:55:27,876 - INFO - Processing video pair: videos/508_004.mp4 and videos/437_012.mp4
+2025-07-07 22:55:29,615 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:29,615 - INFO - ----------------------
+2025-07-07 22:55:29,616 - INFO - Processing video pair: videos/3333_004.mp4 and videos/4828_003.mp4
+2025-07-07 22:55:31,467 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:31,467 - INFO - ----------------------
+2025-07-07 22:55:31,467 - INFO - Processing video pair: videos/2667_001.mp4 and videos/3022_004.mp4
+2025-07-07 22:55:33,054 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:33,054 - INFO - ----------------------
+2025-07-07 22:55:33,054 - INFO - Processing video pair: videos/24_002.mp4 and videos/508_004.mp4
+2025-07-07 22:55:34,702 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:34,702 - INFO - ----------------------
+2025-07-07 22:55:34,703 - INFO - Processing video pair: videos/3506_013.mp4 and videos/766_015.mp4
+2025-07-07 22:55:36,409 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:36,410 - INFO - ----------------------
+2025-07-07 22:55:36,410 - INFO - Processing video pair: videos/2004_000.mp4 and videos/2888_000.mp4
+2025-07-07 22:55:38,192 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:38,192 - INFO - ----------------------
+2025-07-07 22:55:38,192 - INFO - Processing video pair: videos/3520_013.mp4 and videos/4652_009.mp4
+2025-07-07 22:55:39,852 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:39,852 - INFO - ----------------------
+2025-07-07 22:55:39,852 - INFO - Processing video pair: videos/3640_014.mp4 and videos/679_006.mp4
+2025-07-07 22:55:41,471 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:41,472 - INFO - ----------------------
+2025-07-07 22:55:41,472 - INFO - Processing video pair: videos/2164_017.mp4 and videos/25_007.mp4
+2025-07-07 22:55:43,180 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:43,180 - INFO - ----------------------
+2025-07-07 22:55:43,180 - INFO - Processing video pair: videos/3671_022.mp4 and videos/1571_007.mp4
+2025-07-07 22:55:45,066 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:45,066 - INFO - ----------------------
+2025-07-07 22:55:45,066 - INFO - Processing video pair: videos/4335_006.mp4 and videos/4530_006.mp4
+2025-07-07 22:55:46,859 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:46,859 - INFO - ----------------------
+2025-07-07 22:55:46,859 - INFO - Processing video pair: videos/3215_025.mp4 and videos/1434_008.mp4
+2025-07-07 22:55:48,486 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:48,486 - INFO - ----------------------
+2025-07-07 22:55:48,487 - INFO - Processing video pair: videos/6191_010.mp4 and videos/1268_018.mp4
+2025-07-07 22:55:50,177 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:50,178 - INFO - ----------------------
+2025-07-07 22:55:50,178 - INFO - Processing video pair: videos/4652_009.mp4 and videos/2410_005.mp4
+2025-07-07 22:55:51,848 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:51,848 - INFO - ----------------------
+2025-07-07 22:55:51,848 - INFO - Processing video pair: videos/2002_006.mp4 and videos/5135_002.mp4
+2025-07-07 22:55:53,482 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:53,483 - INFO - ----------------------
+2025-07-07 22:55:53,483 - INFO - Processing video pair: videos/3671_003.mp4 and videos/4241_006.mp4
+2025-07-07 22:55:55,367 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:55,368 - INFO - ----------------------
+2025-07-07 22:55:55,368 - INFO - Processing video pair: videos/3637_006.mp4 and videos/3941_003.mp4
+2025-07-07 22:55:57,405 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:57,405 - INFO - ----------------------
+2025-07-07 22:55:57,405 - INFO - Processing video pair: videos/1005_003.mp4 and videos/1353_002.mp4
+2025-07-07 22:55:58,994 - INFO - Processed Answer: ['3']
+2025-07-07 22:55:58,994 - INFO - ----------------------
+2025-07-07 22:55:58,994 - INFO - Processing video pair: videos/2460_000.mp4 and videos/455_003.mp4
+2025-07-07 22:56:00,652 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:00,652 - INFO - ----------------------
+2025-07-07 22:56:00,652 - INFO - Processing video pair: videos/1206_000.mp4 and videos/2353_003.mp4
+2025-07-07 22:56:02,279 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:02,280 - INFO - ----------------------
+2025-07-07 22:56:02,280 - INFO - Processing video pair: videos/2085_002.mp4 and videos/2722_000.mp4
+2025-07-07 22:56:04,135 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:04,135 - INFO - ----------------------
+2025-07-07 22:56:04,135 - INFO - Processing video pair: videos/2002_006.mp4 and videos/4241_006.mp4
+2025-07-07 22:56:05,784 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:05,784 - INFO - ----------------------
+2025-07-07 22:56:05,784 - INFO - Processing video pair: videos/2326_006.mp4 and videos/334_003.mp4
+2025-07-07 22:56:07,492 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:07,492 - INFO - ----------------------
+2025-07-07 22:56:07,492 - INFO - Processing video pair: videos/2353_003.mp4 and videos/2460_000.mp4
+2025-07-07 22:56:09,299 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:09,299 - INFO - ----------------------
+2025-07-07 22:56:09,299 - INFO - Processing video pair: videos/2048_002.mp4 and videos/2268_002.mp4
+2025-07-07 22:56:11,010 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:11,010 - INFO - ----------------------
+2025-07-07 22:56:11,011 - INFO - Processing video pair: videos/3578_003.mp4 and videos/3689_007.mp4
+2025-07-07 22:56:12,775 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:12,776 - INFO - ----------------------
+2025-07-07 22:56:12,776 - INFO - Processing video pair: videos/1086_014.mp4 and videos/1612_007.mp4
+2025-07-07 22:56:14,842 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:14,843 - INFO - ----------------------
+2025-07-07 22:56:14,843 - INFO - Processing video pair: videos/1029_006.mp4 and videos/1086_015.mp4
+2025-07-07 22:56:16,589 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:16,589 - INFO - ----------------------
+2025-07-07 22:56:16,589 - INFO - Processing video pair: videos/3041_005.mp4 and videos/3233_001.mp4
+2025-07-07 22:56:18,508 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:18,508 - INFO - ----------------------
+2025-07-07 22:56:18,509 - INFO - Processing video pair: videos/2460_000.mp4 and videos/3189_001.mp4
+2025-07-07 22:56:20,173 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:20,173 - INFO - ----------------------
+2025-07-07 22:56:20,173 - INFO - Processing video pair: videos/1570_022.mp4 and videos/2010_007.mp4
+2025-07-07 22:56:21,827 - INFO - Processed Answer: ['1']
+2025-07-07 22:56:21,827 - INFO - ----------------------
+2025-07-07 22:56:21,827 - INFO - Processing video pair: videos/31_000.mp4 and videos/850_000.mp4
+2025-07-07 22:56:23,759 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:23,759 - INFO - ----------------------
+2025-07-07 22:56:23,759 - INFO - Processing video pair: videos/314_002.mp4 and videos/679_013.mp4
+2025-07-07 22:56:25,332 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:25,332 - INFO - ----------------------
+2025-07-07 22:56:25,332 - INFO - Processing video pair: videos/1938_001.mp4 and videos/900_000.mp4
+2025-07-07 22:56:26,922 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:26,922 - INFO - ----------------------
+2025-07-07 22:56:26,922 - INFO - Processing video pair: videos/1557_003.mp4 and videos/4753_039.mp4
+2025-07-07 22:56:28,534 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:28,534 - INFO - ----------------------
+2025-07-07 22:56:28,534 - INFO - Processing video pair: videos/1705_000.mp4 and videos/2017_000.mp4
+2025-07-07 22:56:30,395 - INFO - Processed Answer: ['1']
+2025-07-07 22:56:30,395 - INFO - ----------------------
+2025-07-07 22:56:30,395 - INFO - Processing video pair: videos/3578_003.mp4 and videos/4349_001.mp4
+2025-07-07 22:56:32,164 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:32,164 - INFO - ----------------------
+2025-07-07 22:56:32,164 - INFO - Processing video pair: videos/3460_014.mp4 and videos/3243_009.mp4
+2025-07-07 22:56:34,023 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:34,024 - INFO - ----------------------
+2025-07-07 22:56:34,024 - INFO - Processing video pair: videos/3021_000.mp4 and videos/619_000.mp4
+2025-07-07 22:56:35,615 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:35,615 - INFO - ----------------------
+2025-07-07 22:56:35,615 - INFO - Processing video pair: videos/2257_007.mp4 and videos/3215_007.mp4
+2025-07-07 22:56:37,194 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:37,194 - INFO - ----------------------
+2025-07-07 22:56:37,194 - INFO - Processing video pair: videos/1553_010.mp4 and videos/4753_016.mp4
+2025-07-07 22:56:38,973 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:38,973 - INFO - ----------------------
+2025-07-07 22:56:38,973 - INFO - Processing video pair: videos/4050_010.mp4 and videos/4548_005.mp4
+2025-07-07 22:56:40,713 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:40,714 - INFO - ----------------------
+2025-07-07 22:56:40,714 - INFO - Processing video pair: videos/2328_006.mp4 and videos/4753_050.mp4
+2025-07-07 22:56:42,393 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:42,393 - INFO - ----------------------
+2025-07-07 22:56:42,393 - INFO - Processing video pair: videos/270_000.mp4 and videos/417_002.mp4
+2025-07-07 22:56:44,160 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:44,160 - INFO - ----------------------
+2025-07-07 22:56:44,161 - INFO - Processing video pair: videos/3858_006.mp4 and videos/5951_015.mp4
+2025-07-07 22:56:45,932 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:45,932 - INFO - ----------------------
+2025-07-07 22:56:45,933 - INFO - Processing video pair: videos/1029_006.mp4 and videos/2707_075.mp4
+2025-07-07 22:56:47,591 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:47,591 - INFO - ----------------------
+2025-07-07 22:56:47,591 - INFO - Processing video pair: videos/2737_001.mp4 and videos/690_004.mp4
+2025-07-07 22:56:49,322 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:49,322 - INFO - ----------------------
+2025-07-07 22:56:49,322 - INFO - Processing video pair: videos/5194_001.mp4 and videos/121_003.mp4
+2025-07-07 22:56:51,009 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:51,009 - INFO - ----------------------
+2025-07-07 22:56:51,009 - INFO - Processing video pair: videos/41_011.mp4 and videos/45_010.mp4
+2025-07-07 22:56:52,589 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:52,589 - INFO - ----------------------
+2025-07-07 22:56:52,589 - INFO - Processing video pair: videos/2257_013.mp4 and videos/1421_010.mp4
+2025-07-07 22:56:54,167 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:54,168 - INFO - ----------------------
+2025-07-07 22:56:54,168 - INFO - Processing video pair: videos/3210_009.mp4 and videos/3210_010.mp4
+2025-07-07 22:56:56,021 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:56,021 - INFO - ----------------------
+2025-07-07 22:56:56,022 - INFO - Processing video pair: videos/1959_005.mp4 and videos/2946_002.mp4
+2025-07-07 22:56:57,721 - INFO - Processed Answer: ['3']
+2025-07-07 22:56:57,721 - INFO - ----------------------
+2025-07-07 22:56:57,721 - INFO - Processing video pair: videos/6700_001.mp4 and videos/6700_003.mp4
+2025-07-07 22:56:59,455 - INFO - Processed Answer: ['4']
+2025-07-07 22:56:59,455 - INFO - ----------------------
+2025-07-07 22:56:59,455 - INFO - Processing video pair: videos/4210_011.mp4 and videos/1606_003.mp4
+2025-07-07 22:57:01,435 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:01,435 - INFO - ----------------------
+2025-07-07 22:57:01,435 - INFO - Processing video pair: videos/1754_002.mp4 and videos/6332_004.mp4
+2025-07-07 22:57:03,164 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:03,165 - INFO - ----------------------
+2025-07-07 22:57:03,165 - INFO - Processing video pair: videos/2256_000.mp4 and videos/6700_003.mp4
+2025-07-07 22:57:04,865 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:04,865 - INFO - ----------------------
+2025-07-07 22:57:04,865 - INFO - Processing video pair: videos/2350_007.mp4 and videos/2773_017.mp4
+2025-07-07 22:57:06,512 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:06,512 - INFO - ----------------------
+2025-07-07 22:57:06,512 - INFO - Processing video pair: videos/1607_004.mp4 and videos/3520_014.mp4
+2025-07-07 22:57:08,229 - INFO - Processed Answer: ['4']
+2025-07-07 22:57:08,229 - INFO - ----------------------
+2025-07-07 22:57:08,229 - INFO - Processing video pair: videos/1558_004.mp4 and videos/2914_003.mp4
+2025-07-07 22:57:09,820 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:09,820 - INFO - ----------------------
+2025-07-07 22:57:09,820 - INFO - Processing video pair: videos/3520_013.mp4 and videos/3520_014.mp4
+2025-07-07 22:57:11,503 - INFO - Processed Answer: ['4']
+2025-07-07 22:57:11,503 - INFO - ----------------------
+2025-07-07 22:57:11,503 - INFO - Processing video pair: videos/807_009.mp4 and videos/3755_012.mp4
+2025-07-07 22:57:13,142 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:13,143 - INFO - ----------------------
+2025-07-07 22:57:13,143 - INFO - Processing video pair: videos/4530_004.mp4 and videos/780_004.mp4
+2025-07-07 22:57:14,874 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:14,874 - INFO - ----------------------
+2025-07-07 22:57:14,874 - INFO - Processing video pair: videos/1016_004.mp4 and videos/24_002.mp4
+2025-07-07 22:57:16,634 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:16,634 - INFO - ----------------------
+2025-07-07 22:57:16,635 - INFO - Processing video pair: videos/2529_005.mp4 and videos/851_002.mp4
+2025-07-07 22:57:18,488 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:18,488 - INFO - ----------------------
+2025-07-07 22:57:18,488 - INFO - Processing video pair: videos/2082_008.mp4 and videos/371_006.mp4
+2025-07-07 22:57:20,405 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:20,405 - INFO - ----------------------
+2025-07-07 22:57:20,406 - INFO - Processing video pair: videos/1071_014.mp4 and videos/4278_005.mp4
+2025-07-07 22:57:22,145 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:22,145 - INFO - ----------------------
+2025-07-07 22:57:22,145 - INFO - Processing video pair: videos/2257_007.mp4 and videos/2257_013.mp4
+2025-07-07 22:57:23,718 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:23,719 - INFO - ----------------------
+2025-07-07 22:57:23,719 - INFO - Processing video pair: videos/1612_007.mp4 and videos/1612_010.mp4
+2025-07-07 22:57:25,827 - INFO - Processed Answer: ['4']
+2025-07-07 22:57:25,827 - INFO - ----------------------
+2025-07-07 22:57:25,828 - INFO - Processing video pair: videos/2197_002.mp4 and videos/3335_001.mp4
+2025-07-07 22:57:27,769 - INFO - Processed Answer: ['1']
+2025-07-07 22:57:27,770 - INFO - ----------------------
+2025-07-07 22:57:27,770 - INFO - Processing video pair: videos/4858_009.mp4 and videos/2580_009.mp4
+2025-07-07 22:57:29,416 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:29,416 - INFO - ----------------------
+2025-07-07 22:57:29,416 - INFO - Processing video pair: videos/2410_002.mp4 and videos/4070_002.mp4
+2025-07-07 22:57:31,266 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:31,266 - INFO - ----------------------
+2025-07-07 22:57:31,266 - INFO - Processing video pair: videos/1884_000.mp4 and videos/40_000.mp4
+2025-07-07 22:57:32,861 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:32,861 - INFO - ----------------------
+2025-07-07 22:57:32,861 - INFO - Processing video pair: videos/3215_025.mp4 and videos/3215_031.mp4
+2025-07-07 22:57:34,426 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:34,426 - INFO - ----------------------
+2025-07-07 22:57:34,426 - INFO - Processing video pair: videos/1928_019.mp4 and videos/4622_002.mp4
+2025-07-07 22:57:36,058 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:36,058 - INFO - ----------------------
+2025-07-07 22:57:36,058 - INFO - Processing video pair: videos/1063_007.mp4 and videos/1754_007.mp4
+2025-07-07 22:57:37,911 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:37,911 - INFO - ----------------------
+2025-07-07 22:57:37,912 - INFO - Processing video pair: videos/4241_006.mp4 and videos/2506_003.mp4
+2025-07-07 22:57:39,569 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:39,569 - INFO - ----------------------
+2025-07-07 22:57:39,570 - INFO - Processing video pair: videos/1050_002.mp4 and videos/19_001.mp4
+2025-07-07 22:57:41,530 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:41,530 - INFO - ----------------------
+2025-07-07 22:57:41,530 - INFO - Processing video pair: videos/2350_007.mp4 and videos/495_001.mp4
+2025-07-07 22:57:43,355 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:43,355 - INFO - ----------------------
+2025-07-07 22:57:43,355 - INFO - Processing video pair: videos/2082_008.mp4 and videos/371_003.mp4
+2025-07-07 22:57:45,338 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:45,338 - INFO - ----------------------
+2025-07-07 22:57:45,338 - INFO - Processing video pair: videos/4987_001.mp4 and videos/6332_004.mp4
+2025-07-07 22:57:47,132 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:47,132 - INFO - ----------------------
+2025-07-07 22:57:47,132 - INFO - Processing video pair: videos/3237_002.mp4 and videos/3471_013.mp4
+2025-07-07 22:57:48,925 - INFO - Processed Answer: ['4']
+2025-07-07 22:57:48,925 - INFO - ----------------------
+2025-07-07 22:57:48,925 - INFO - Processing video pair: videos/5951_015.mp4 and videos/4274_002.mp4
+2025-07-07 22:57:50,713 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:50,713 - INFO - ----------------------
+2025-07-07 22:57:50,713 - INFO - Processing video pair: videos/3215_031.mp4 and videos/1434_008.mp4
+2025-07-07 22:57:52,354 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:52,355 - INFO - ----------------------
+2025-07-07 22:57:52,355 - INFO - Processing video pair: videos/6700_000.mp4 and videos/6700_001.mp4
+2025-07-07 22:57:54,005 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:54,006 - INFO - ----------------------
+2025-07-07 22:57:54,006 - INFO - Processing video pair: videos/1005_001.mp4 and videos/128_002.mp4
+2025-07-07 22:57:55,724 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:55,724 - INFO - ----------------------
+2025-07-07 22:57:55,725 - INFO - Processing video pair: videos/2335_002.mp4 and videos/4278_005.mp4
+2025-07-07 22:57:57,581 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:57,581 - INFO - ----------------------
+2025-07-07 22:57:57,582 - INFO - Processing video pair: videos/1268_012.mp4 and videos/2131_006.mp4
+2025-07-07 22:57:59,383 - INFO - Processed Answer: ['3']
+2025-07-07 22:57:59,383 - INFO - ----------------------
+2025-07-07 22:57:59,383 - INFO - Processing video pair: videos/2777_003.mp4 and videos/3130_000.mp4
+2025-07-07 22:58:01,088 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:01,088 - INFO - ----------------------
+2025-07-07 22:58:01,088 - INFO - Processing video pair: videos/2894_010.mp4 and videos/3210_009.mp4
+2025-07-07 22:58:02,862 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:02,862 - INFO - ----------------------
+2025-07-07 22:58:02,863 - INFO - Processing video pair: videos/3808_006.mp4 and videos/1202_011.mp4
+2025-07-07 22:58:04,515 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:04,515 - INFO - ----------------------
+2025-07-07 22:58:04,515 - INFO - Processing video pair: videos/1206_000.mp4 and videos/1449_002.mp4
+2025-07-07 22:58:06,122 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:06,122 - INFO - ----------------------
+2025-07-07 22:58:06,122 - INFO - Processing video pair: videos/3023_004.mp4 and videos/447_007.mp4
+2025-07-07 22:58:07,941 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:07,941 - INFO - ----------------------
+2025-07-07 22:58:07,941 - INFO - Processing video pair: videos/1438_018.mp4 and videos/4753_039.mp4
+2025-07-07 22:58:09,561 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:09,561 - INFO - ----------------------
+2025-07-07 22:58:09,562 - INFO - Processing video pair: videos/2630_003.mp4 and videos/45_018.mp4
+2025-07-07 22:58:11,193 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:11,193 - INFO - ----------------------
+2025-07-07 22:58:11,193 - INFO - Processing video pair: videos/1415_002.mp4 and videos/1887_001.mp4
+2025-07-07 22:58:13,144 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:13,144 - INFO - ----------------------
+2025-07-07 22:58:13,145 - INFO - Processing video pair: videos/137_003.mp4 and videos/4210_006.mp4
+2025-07-07 22:58:14,952 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:14,952 - INFO - ----------------------
+2025-07-07 22:58:14,953 - INFO - Processing video pair: videos/137_004.mp4 and videos/1985_001.mp4
+2025-07-07 22:58:16,744 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:16,744 - INFO - ----------------------
+2025-07-07 22:58:16,744 - INFO - Processing video pair: videos/2468_003.mp4 and videos/725_001.mp4
+2025-07-07 22:58:18,644 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:18,644 - INFO - ----------------------
+2025-07-07 22:58:18,645 - INFO - Processing video pair: videos/2605_006.mp4 and videos/3740_005.mp4
+2025-07-07 22:58:20,650 - INFO - Processed Answer: ['4']
+2025-07-07 22:58:20,650 - INFO - ----------------------
+2025-07-07 22:58:20,651 - INFO - Processing video pair: videos/1433_000.mp4 and videos/2410_005.mp4
+2025-07-07 22:58:22,470 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:22,471 - INFO - ----------------------
+2025-07-07 22:58:22,471 - INFO - Processing video pair: videos/137_003.mp4 and videos/437_012.mp4
+2025-07-07 22:58:24,429 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:24,429 - INFO - ----------------------
+2025-07-07 22:58:24,429 - INFO - Processing video pair: videos/2393_007.mp4 and videos/508_003.mp4
+2025-07-07 22:58:26,289 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:26,289 - INFO - ----------------------
+2025-07-07 22:58:26,289 - INFO - Processing video pair: videos/1754_007.mp4 and videos/1754_008.mp4
+2025-07-07 22:58:28,204 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:28,204 - INFO - ----------------------
+2025-07-07 22:58:28,205 - INFO - Processing video pair: videos/2008_006.mp4 and videos/4517_006.mp4
+2025-07-07 22:58:30,132 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:30,132 - INFO - ----------------------
+2025-07-07 22:58:30,132 - INFO - Processing video pair: videos/2448_001.mp4 and videos/2844_002.mp4
+2025-07-07 22:58:31,982 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:31,982 - INFO - ----------------------
+2025-07-07 22:58:31,982 - INFO - Processing video pair: videos/3215_011.mp4 and videos/589_009.mp4
+2025-07-07 22:58:33,710 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:33,710 - INFO - ----------------------
+2025-07-07 22:58:33,710 - INFO - Processing video pair: videos/2002_011.mp4 and videos/437_014.mp4
+2025-07-07 22:58:35,405 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:35,405 - INFO - ----------------------
+2025-07-07 22:58:35,406 - INFO - Processing video pair: videos/4828_003.mp4 and videos/766_015.mp4
+2025-07-07 22:58:37,386 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:37,387 - INFO - ----------------------
+2025-07-07 22:58:37,387 - INFO - Processing video pair: videos/1071_003.mp4 and videos/2353_012.mp4
+2025-07-07 22:58:39,304 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:39,304 - INFO - ----------------------
+2025-07-07 22:58:39,305 - INFO - Processing video pair: videos/371_003.mp4 and videos/371_006.mp4
+2025-07-07 22:58:41,169 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:41,169 - INFO - ----------------------
+2025-07-07 22:58:41,169 - INFO - Processing video pair: videos/2667_001.mp4 and videos/268_000.mp4
+2025-07-07 22:58:42,874 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:42,875 - INFO - ----------------------
+2025-07-07 22:58:42,875 - INFO - Processing video pair: videos/4739_000.mp4 and videos/1433_000.mp4
+2025-07-07 22:58:44,731 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:44,732 - INFO - ----------------------
+2025-07-07 22:58:44,732 - INFO - Processing video pair: videos/1063_007.mp4 and videos/4987_001.mp4
+2025-07-07 22:58:46,701 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:46,702 - INFO - ----------------------
+2025-07-07 22:58:46,702 - INFO - Processing video pair: videos/1622_020.mp4 and videos/3815_008.mp4
+2025-07-07 22:58:48,881 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:48,881 - INFO - ----------------------
+2025-07-07 22:58:48,881 - INFO - Processing video pair: videos/205_006.mp4 and videos/4679_004.mp4
+2025-07-07 22:58:50,607 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:50,607 - INFO - ----------------------
+2025-07-07 22:58:50,607 - INFO - Processing video pair: videos/5429_002.mp4 and videos/2605_006.mp4
+2025-07-07 22:58:52,380 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:52,380 - INFO - ----------------------
+2025-07-07 22:58:52,380 - INFO - Processing video pair: videos/2004_000.mp4 and videos/936_000.mp4
+2025-07-07 22:58:54,235 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:54,235 - INFO - ----------------------
+2025-07-07 22:58:54,235 - INFO - Processing video pair: videos/266_012.mp4 and videos/4530_006.mp4
+2025-07-07 22:58:56,563 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:56,563 - INFO - ----------------------
+2025-07-07 22:58:56,563 - INFO - Processing video pair: videos/417_002.mp4 and videos/429_002.mp4
+2025-07-07 22:58:58,718 - INFO - Processed Answer: ['3']
+2025-07-07 22:58:58,718 - INFO - ----------------------
+2025-07-07 22:58:58,718 - INFO - Processing video pair: videos/3215_011.mp4 and videos/152_002.mp4
+2025-07-07 22:59:00,353 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:00,353 - INFO - ----------------------
+2025-07-07 22:59:00,354 - INFO - Processing video pair: videos/1088_007.mp4 and videos/2385_006.mp4
+2025-07-07 22:59:02,217 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:02,217 - INFO - ----------------------
+2025-07-07 22:59:02,217 - INFO - Processing video pair: videos/2572_000.mp4 and videos/885_001.mp4
+2025-07-07 22:59:03,946 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:03,946 - INFO - ----------------------
+2025-07-07 22:59:03,947 - INFO - Processing video pair: videos/1607_009.mp4 and videos/3520_015.mp4
+2025-07-07 22:59:05,736 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:05,736 - INFO - ----------------------
+2025-07-07 22:59:05,736 - INFO - Processing video pair: videos/1125_003.mp4 and videos/1159_001.mp4
+2025-07-07 22:59:08,051 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:08,051 - INFO - ----------------------
+2025-07-07 22:59:08,051 - INFO - Processing video pair: videos/2257_007.mp4 and videos/1677_018.mp4
+2025-07-07 22:59:09,666 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:09,666 - INFO - ----------------------
+2025-07-07 22:59:09,666 - INFO - Processing video pair: videos/276_002.mp4 and videos/3941_003.mp4
+2025-07-07 22:59:11,781 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:11,781 - INFO - ----------------------
+2025-07-07 22:59:11,781 - INFO - Processing video pair: videos/1403_019.mp4 and videos/817_009.mp4
+2025-07-07 22:59:13,513 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:13,513 - INFO - ----------------------
+2025-07-07 22:59:13,514 - INFO - Processing video pair: videos/2618_001.mp4 and videos/2326_006.mp4
+2025-07-07 22:59:15,272 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:15,273 - INFO - ----------------------
+2025-07-07 22:59:15,273 - INFO - Processing video pair: videos/3236_013.mp4 and videos/4622_001.mp4
+2025-07-07 22:59:17,059 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:17,059 - INFO - ----------------------
+2025-07-07 22:59:17,060 - INFO - Processing video pair: videos/672_008.mp4 and videos/862_023.mp4
+2025-07-07 22:59:18,782 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:18,782 - INFO - ----------------------
+2025-07-07 22:59:18,782 - INFO - Processing video pair: videos/6077_001.mp4 and videos/930_003.mp4
+2025-07-07 22:59:20,504 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:20,504 - INFO - ----------------------
+2025-07-07 22:59:20,504 - INFO - Processing video pair: videos/1353_005.mp4 and videos/2954_001.mp4
+2025-07-07 22:59:22,211 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:22,211 - INFO - ----------------------
+2025-07-07 22:59:22,211 - INFO - Processing video pair: videos/4748_005.mp4 and videos/2258_003.mp4
+2025-07-07 22:59:24,023 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:24,023 - INFO - ----------------------
+2025-07-07 22:59:24,023 - INFO - Processing video pair: videos/4103_004.mp4 and videos/508_002.mp4
+2025-07-07 22:59:25,876 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:25,876 - INFO - ----------------------
+2025-07-07 22:59:25,877 - INFO - Processing video pair: videos/2460_000.mp4 and videos/64_003.mp4
+2025-07-07 22:59:27,736 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:27,737 - INFO - ----------------------
+2025-07-07 22:59:27,737 - INFO - Processing video pair: videos/6191_011.mp4 and videos/1966_010.mp4
+2025-07-07 22:59:29,351 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:29,352 - INFO - ----------------------
+2025-07-07 22:59:29,352 - INFO - Processing video pair: videos/2105_004.mp4 and videos/2105_005.mp4
+2025-07-07 22:59:31,061 - INFO - Processed Answer: ['4']
+2025-07-07 22:59:31,061 - INFO - ----------------------
+2025-07-07 22:59:31,061 - INFO - Processing video pair: videos/484_000.mp4 and videos/66_000.mp4
+2025-07-07 22:59:32,798 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:32,799 - INFO - ----------------------
+2025-07-07 22:59:32,799 - INFO - Processing video pair: videos/4530_004.mp4 and videos/45_018.mp4
+2025-07-07 22:59:34,535 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:34,536 - INFO - ----------------------
+2025-07-07 22:59:34,536 - INFO - Processing video pair: videos/1203_004.mp4 and videos/4335_006.mp4
+2025-07-07 22:59:36,607 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:36,607 - INFO - ----------------------
+2025-07-07 22:59:36,607 - INFO - Processing video pair: videos/218_001.mp4 and videos/276_002.mp4
+2025-07-07 22:59:38,485 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:38,485 - INFO - ----------------------
+2025-07-07 22:59:38,485 - INFO - Processing video pair: videos/3520_016.mp4 and videos/4739_000.mp4
+2025-07-07 22:59:40,324 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:40,324 - INFO - ----------------------
+2025-07-07 22:59:40,325 - INFO - Processing video pair: videos/4278_005.mp4 and videos/572_006.mp4
+2025-07-07 22:59:42,056 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:42,056 - INFO - ----------------------
+2025-07-07 22:59:42,057 - INFO - Processing video pair: videos/3863_003.mp4 and videos/883_008.mp4
+2025-07-07 22:59:43,915 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:43,915 - INFO - ----------------------
+2025-07-07 22:59:43,916 - INFO - Processing video pair: videos/455_003.mp4 and videos/64_003.mp4
+2025-07-07 22:59:45,835 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:45,835 - INFO - ----------------------
+2025-07-07 22:59:45,835 - INFO - Processing video pair: videos/1005_003.mp4 and videos/2954_001.mp4
+2025-07-07 22:59:47,475 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:47,475 - INFO - ----------------------
+2025-07-07 22:59:47,475 - INFO - Processing video pair: videos/4753_016.mp4 and videos/4753_033.mp4
+2025-07-07 22:59:49,161 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:49,161 - INFO - ----------------------
+2025-07-07 22:59:49,162 - INFO - Processing video pair: videos/1622_020.mp4 and videos/957_007.mp4
+2025-07-07 22:59:51,084 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:51,084 - INFO - ----------------------
+2025-07-07 22:59:51,085 - INFO - Processing video pair: videos/1403_019.mp4 and videos/1622_020.mp4
+2025-07-07 22:59:53,128 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:53,128 - INFO - ----------------------
+2025-07-07 22:59:53,128 - INFO - Processing video pair: videos/1645_002.mp4 and videos/4799_003.mp4
+2025-07-07 22:59:54,852 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:54,852 - INFO - ----------------------
+2025-07-07 22:59:54,852 - INFO - Processing video pair: videos/6077_001.mp4 and videos/2258_003.mp4
+2025-07-07 22:59:56,718 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:56,718 - INFO - ----------------------
+2025-07-07 22:59:56,718 - INFO - Processing video pair: videos/2139_005.mp4 and videos/3994_019.mp4
+2025-07-07 22:59:58,541 - INFO - Processed Answer: ['3']
+2025-07-07 22:59:58,541 - INFO - ----------------------
+2025-07-07 22:59:58,541 - INFO - Processing video pair: videos/5429_002.mp4 and videos/589_009.mp4
+2025-07-07 23:00:00,240 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:00,240 - INFO - ----------------------
+2025-07-07 23:00:00,240 - INFO - Processing video pair: videos/5429_002.mp4 and videos/4681_010.mp4
+2025-07-07 23:00:01,869 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:01,869 - INFO - ----------------------
+2025-07-07 23:00:01,869 - INFO - Processing video pair: videos/4753_014.mp4 and videos/4753_016.mp4
+2025-07-07 23:00:03,608 - INFO - Processed Answer: ['4']
+2025-07-07 23:00:03,608 - INFO - ----------------------
+2025-07-07 23:00:03,609 - INFO - Processing video pair: videos/3156_002.mp4 and videos/859_003.mp4
+2025-07-07 23:00:05,307 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:05,308 - INFO - ----------------------
+2025-07-07 23:00:05,308 - INFO - Processing video pair: videos/1086_015.mp4 and videos/2946_002.mp4
+2025-07-07 23:00:07,056 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:07,056 - INFO - ----------------------
+2025-07-07 23:00:07,056 - INFO - Processing video pair: videos/1754_008.mp4 and videos/4987_001.mp4
+2025-07-07 23:00:08,928 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:08,928 - INFO - ----------------------
+2025-07-07 23:00:08,928 - INFO - Processing video pair: videos/2326_002.mp4 and videos/334_003.mp4
+2025-07-07 23:00:10,955 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:10,955 - INFO - ----------------------
+2025-07-07 23:00:10,956 - INFO - Processing video pair: videos/4753_024.mp4 and videos/589_014.mp4
+2025-07-07 23:00:12,588 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:12,588 - INFO - ----------------------
+2025-07-07 23:00:12,588 - INFO - Processing video pair: videos/5661_006.mp4 and videos/5848_006.mp4
+2025-07-07 23:00:14,405 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:14,405 - INFO - ----------------------
+2025-07-07 23:00:14,405 - INFO - Processing video pair: videos/3358_013.mp4 and videos/447_007.mp4
+2025-07-07 23:00:16,084 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:16,084 - INFO - ----------------------
+2025-07-07 23:00:16,084 - INFO - Processing video pair: videos/1353_002.mp4 and videos/2954_001.mp4
+2025-07-07 23:00:17,693 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:17,693 - INFO - ----------------------
+2025-07-07 23:00:17,693 - INFO - Processing video pair: videos/3465_005.mp4 and videos/4689_008.mp4
+2025-07-07 23:00:19,372 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:19,373 - INFO - ----------------------
+2025-07-07 23:00:19,373 - INFO - Processing video pair: videos/6077_003.mp4 and videos/6086_009.mp4
+2025-07-07 23:00:21,072 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:21,072 - INFO - ----------------------
+2025-07-07 23:00:21,072 - INFO - Processing video pair: videos/1705_001.mp4 and videos/327_000.mp4
+2025-07-07 23:00:22,971 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:22,972 - INFO - ----------------------
+2025-07-07 23:00:22,972 - INFO - Processing video pair: videos/2105_004.mp4 and videos/4083_006.mp4
+2025-07-07 23:00:24,596 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:24,596 - INFO - ----------------------
+2025-07-07 23:00:24,596 - INFO - Processing video pair: videos/2576_003.mp4 and videos/2711_002.mp4
+2025-07-07 23:00:26,633 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:26,633 - INFO - ----------------------
+2025-07-07 23:00:26,633 - INFO - Processing video pair: videos/3189_001.mp4 and videos/725_001.mp4
+2025-07-07 23:00:28,601 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:28,602 - INFO - ----------------------
+2025-07-07 23:00:28,602 - INFO - Processing video pair: videos/2687_001.mp4 and videos/99_003.mp4
+2025-07-07 23:00:30,275 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:30,275 - INFO - ----------------------
+2025-07-07 23:00:30,275 - INFO - Processing video pair: videos/2707_075.mp4 and videos/1429_000.mp4
+2025-07-07 23:00:31,889 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:31,889 - INFO - ----------------------
+2025-07-07 23:00:31,889 - INFO - Processing video pair: videos/409_019.mp4 and videos/4530_006.mp4
+2025-07-07 23:00:33,967 - INFO - Processed Answer: ['4']
+2025-07-07 23:00:33,968 - INFO - ----------------------
+2025-07-07 23:00:33,968 - INFO - Processing video pair: videos/5429_013.mp4 and videos/2195_032.mp4
+2025-07-07 23:00:35,667 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:35,668 - INFO - ----------------------
+2025-07-07 23:00:35,668 - INFO - Processing video pair: videos/1071_003.mp4 and videos/3863_003.mp4
+2025-07-07 23:00:37,466 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:37,466 - INFO - ----------------------
+2025-07-07 23:00:37,466 - INFO - Processing video pair: videos/2636_006.mp4 and videos/641_003.mp4
+2025-07-07 23:00:39,097 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:39,097 - INFO - ----------------------
+2025-07-07 23:00:39,097 - INFO - Processing video pair: videos/5602_005.mp4 and videos/6199_006.mp4
+2025-07-07 23:00:40,849 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:40,849 - INFO - ----------------------
+2025-07-07 23:00:40,849 - INFO - Processing video pair: videos/2722_001.mp4 and videos/2939_000.mp4
+2025-07-07 23:00:42,577 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:42,577 - INFO - ----------------------
+2025-07-07 23:00:42,577 - INFO - Processing video pair: videos/3215_011.mp4 and videos/3465_005.mp4
+2025-07-07 23:00:44,266 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:44,266 - INFO - ----------------------
+2025-07-07 23:00:44,266 - INFO - Processing video pair: videos/2395_006.mp4 and videos/74_007.mp4
+2025-07-07 23:00:45,927 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:45,927 - INFO - ----------------------
+2025-07-07 23:00:45,927 - INFO - Processing video pair: videos/2200_000.mp4 and videos/2978_008.mp4
+2025-07-07 23:00:47,624 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:47,625 - INFO - ----------------------
+2025-07-07 23:00:47,625 - INFO - Processing video pair: videos/3520_014.mp4 and videos/3520_016.mp4
+2025-07-07 23:00:49,334 - INFO - Processed Answer: ['4']
+2025-07-07 23:00:49,334 - INFO - ----------------------
+2025-07-07 23:00:49,334 - INFO - Processing video pair: videos/1088_007.mp4 and videos/1754_008.mp4
+2025-07-07 23:00:51,087 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:51,087 - INFO - ----------------------
+2025-07-07 23:00:51,087 - INFO - Processing video pair: videos/473_006.mp4 and videos/4748_005.mp4
+2025-07-07 23:00:52,833 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:52,834 - INFO - ----------------------
+2025-07-07 23:00:52,834 - INFO - Processing video pair: videos/945_004.mp4 and videos/2580_009.mp4
+2025-07-07 23:00:54,491 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:54,492 - INFO - ----------------------
+2025-07-07 23:00:54,492 - INFO - Processing video pair: videos/1438_018.mp4 and videos/3215_031.mp4
+2025-07-07 23:00:56,092 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:56,092 - INFO - ----------------------
+2025-07-07 23:00:56,092 - INFO - Processing video pair: videos/2636_003.mp4 and videos/351_000.mp4
+2025-07-07 23:00:57,804 - INFO - Processed Answer: ['1']
+2025-07-07 23:00:57,804 - INFO - ----------------------
+2025-07-07 23:00:57,805 - INFO - Processing video pair: videos/1289_002.mp4 and videos/3689_002.mp4
+2025-07-07 23:00:59,651 - INFO - Processed Answer: ['3']
+2025-07-07 23:00:59,651 - INFO - ----------------------
+2025-07-07 23:00:59,651 - INFO - Processing video pair: videos/6822_010.mp4 and videos/2670_008.mp4
+2025-07-07 23:01:01,274 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:01,274 - INFO - ----------------------
+2025-07-07 23:01:01,274 - INFO - Processing video pair: videos/1415_002.mp4 and videos/2276_000.mp4
+2025-07-07 23:01:03,110 - INFO - Processed Answer: ['1']
+2025-07-07 23:01:03,110 - INFO - ----------------------
+2025-07-07 23:01:03,110 - INFO - Processing video pair: videos/536_003.mp4 and videos/817_009.mp4
+2025-07-07 23:01:04,724 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:04,725 - INFO - ----------------------
+2025-07-07 23:01:04,725 - INFO - Processing video pair: videos/267_006.mp4 and videos/788_006.mp4
+2025-07-07 23:01:06,489 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:06,489 - INFO - ----------------------
+2025-07-07 23:01:06,489 - INFO - Processing video pair: videos/1498_001.mp4 and videos/359_001.mp4
+2025-07-07 23:01:08,340 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:08,340 - INFO - ----------------------
+2025-07-07 23:01:08,340 - INFO - Processing video pair: videos/354_002.mp4 and videos/627_002.mp4
+2025-07-07 23:01:10,182 - INFO - Processed Answer: ['4']
+2025-07-07 23:01:10,183 - INFO - ----------------------
+2025-07-07 23:01:10,183 - INFO - Processing video pair: videos/4210_011.mp4 and videos/437_014.mp4
+2025-07-07 23:01:11,929 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:11,929 - INFO - ----------------------
+2025-07-07 23:01:11,930 - INFO - Processing video pair: videos/2722_000.mp4 and videos/2939_000.mp4
+2025-07-07 23:01:13,689 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:13,689 - INFO - ----------------------
+2025-07-07 23:01:13,690 - INFO - Processing video pair: videos/3653_002.mp4 and videos/6155_001.mp4
+2025-07-07 23:01:15,634 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:15,634 - INFO - ----------------------
+2025-07-07 23:01:15,635 - INFO - Processing video pair: videos/1868_028.mp4 and videos/2065_004.mp4
+2025-07-07 23:01:17,440 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:17,440 - INFO - ----------------------
+2025-07-07 23:01:17,441 - INFO - Processing video pair: videos/1497_000.mp4 and videos/850_000.mp4
+2025-07-07 23:01:19,513 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:19,513 - INFO - ----------------------
+2025-07-07 23:01:19,513 - INFO - Processing video pair: videos/2085_002.mp4 and videos/2722_001.mp4
+2025-07-07 23:01:21,454 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:21,454 - INFO - ----------------------
+2025-07-07 23:01:21,455 - INFO - Processing video pair: videos/2367_001.mp4 and videos/854_000.mp4
+2025-07-07 23:01:23,076 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:23,076 - INFO - ----------------------
+2025-07-07 23:01:23,076 - INFO - Processing video pair: videos/2449_006.mp4 and videos/2852_011.mp4
+2025-07-07 23:01:24,839 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:24,839 - INFO - ----------------------
+2025-07-07 23:01:24,840 - INFO - Processing video pair: videos/1289_007.mp4 and videos/3689_007.mp4
+2025-07-07 23:01:26,731 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:26,731 - INFO - ----------------------
+2025-07-07 23:01:26,731 - INFO - Processing video pair: videos/6700_000.mp4 and videos/6700_003.mp4
+2025-07-07 23:01:28,481 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:28,481 - INFO - ----------------------
+2025-07-07 23:01:28,482 - INFO - Processing video pair: videos/3357_005.mp4 and videos/4278_005.mp4
+2025-07-07 23:01:30,413 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:30,413 - INFO - ----------------------
+2025-07-07 23:01:30,413 - INFO - Processing video pair: videos/1005_001.mp4 and videos/1005_003.mp4
+2025-07-07 23:01:32,089 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:32,089 - INFO - ----------------------
+2025-07-07 23:01:32,089 - INFO - Processing video pair: videos/24_002.mp4 and videos/743_006.mp4
+2025-07-07 23:01:33,809 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:33,809 - INFO - ----------------------
+2025-07-07 23:01:33,809 - INFO - Processing video pair: videos/2395_006.mp4 and videos/4050_010.mp4
+2025-07-07 23:01:35,608 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:35,609 - INFO - ----------------------
+2025-07-07 23:01:35,609 - INFO - Processing video pair: videos/2828_001.mp4 and videos/45_007.mp4
+2025-07-07 23:01:37,407 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:37,408 - INFO - ----------------------
+2025-07-07 23:01:37,408 - INFO - Processing video pair: videos/2787_001.mp4 and videos/31_000.mp4
+2025-07-07 23:01:39,417 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:39,417 - INFO - ----------------------
+2025-07-07 23:01:39,417 - INFO - Processing video pair: videos/2332_000.mp4 and videos/406_015.mp4
+2025-07-07 23:01:41,110 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:41,110 - INFO - ----------------------
+2025-07-07 23:01:41,110 - INFO - Processing video pair: videos/6079_012.mp4 and videos/1554_007.mp4
+2025-07-07 23:01:42,866 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:42,867 - INFO - ----------------------
+2025-07-07 23:01:42,867 - INFO - Processing video pair: videos/1449_002.mp4 and videos/3021_000.mp4
+2025-07-07 23:01:44,469 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:44,469 - INFO - ----------------------
+2025-07-07 23:01:44,469 - INFO - Processing video pair: videos/2945_000.mp4 and videos/3214_001.mp4
+2025-07-07 23:01:46,283 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:46,284 - INFO - ----------------------
+2025-07-07 23:01:46,284 - INFO - Processing video pair: videos/2337_001.mp4 and videos/3325_000.mp4
+2025-07-07 23:01:48,047 - INFO - Processed Answer: ['1']
+2025-07-07 23:01:48,048 - INFO - ----------------------
+2025-07-07 23:01:48,048 - INFO - Processing video pair: videos/1715_013.mp4 and videos/4485_008.mp4
+2025-07-07 23:01:49,654 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:49,654 - INFO - ----------------------
+2025-07-07 23:01:49,654 - INFO - Processing video pair: videos/1303_002.mp4 and videos/484_000.mp4
+2025-07-07 23:01:51,482 - INFO - Processed Answer: ['1']
+2025-07-07 23:01:51,482 - INFO - ----------------------
+2025-07-07 23:01:51,482 - INFO - Processing video pair: videos/1514_008.mp4 and videos/2660_016.mp4
+2025-07-07 23:01:53,322 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:53,322 - INFO - ----------------------
+2025-07-07 23:01:53,322 - INFO - Processing video pair: videos/1088_007.mp4 and videos/4987_001.mp4
+2025-07-07 23:01:55,153 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:55,154 - INFO - ----------------------
+2025-07-07 23:01:55,154 - INFO - Processing video pair: videos/3520_014.mp4 and videos/3520_015.mp4
+2025-07-07 23:01:56,932 - INFO - Processed Answer: ['4']
+2025-07-07 23:01:56,932 - INFO - ----------------------
+2025-07-07 23:01:56,932 - INFO - Processing video pair: videos/3460_014.mp4 and videos/2195_032.mp4
+2025-07-07 23:01:58,765 - INFO - Processed Answer: ['3']
+2025-07-07 23:01:58,765 - INFO - ----------------------
+2025-07-07 23:01:58,765 - INFO - Processing video pair: videos/5116_015.mp4 and videos/1522_029.mp4
+2025-07-07 23:02:00,442 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:00,442 - INFO - ----------------------
+2025-07-07 23:02:00,442 - INFO - Processing video pair: videos/4689_008.mp4 and videos/4710_010.mp4
+2025-07-07 23:02:02,130 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:02,131 - INFO - ----------------------
+2025-07-07 23:02:02,131 - INFO - Processing video pair: videos/4210_013.mp4 and videos/4512_011.mp4
+2025-07-07 23:02:03,810 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:03,810 - INFO - ----------------------
+2025-07-07 23:02:03,810 - INFO - Processing video pair: videos/1088_007.mp4 and videos/6332_004.mp4
+2025-07-07 23:02:05,614 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:05,614 - INFO - ----------------------
+2025-07-07 23:02:05,614 - INFO - Processing video pair: videos/1854_006.mp4 and videos/3773_024.mp4
+2025-07-07 23:02:07,427 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:07,427 - INFO - ----------------------
+2025-07-07 23:02:07,428 - INFO - Processing video pair: videos/1897_000.mp4 and videos/3357_005.mp4
+2025-07-07 23:02:09,301 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:09,301 - INFO - ----------------------
+2025-07-07 23:02:09,301 - INFO - Processing video pair: videos/5093_007.mp4 and videos/6195_006.mp4
+2025-07-07 23:02:10,956 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:10,957 - INFO - ----------------------
+2025-07-07 23:02:10,957 - INFO - Processing video pair: videos/4210_006.mp4 and videos/437_012.mp4
+2025-07-07 23:02:12,695 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:12,695 - INFO - ----------------------
+2025-07-07 23:02:12,696 - INFO - Processing video pair: videos/1126_002.mp4 and videos/4141_002.mp4
+2025-07-07 23:02:14,422 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:14,422 - INFO - ----------------------
+2025-07-07 23:02:14,422 - INFO - Processing video pair: videos/1417_001.mp4 and videos/268_000.mp4
+2025-07-07 23:02:16,198 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:16,198 - INFO - ----------------------
+2025-07-07 23:02:16,199 - INFO - Processing video pair: videos/945_004.mp4 and videos/45_010.mp4
+2025-07-07 23:02:17,794 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:17,794 - INFO - ----------------------
+2025-07-07 23:02:17,794 - INFO - Processing video pair: videos/1622_020.mp4 and videos/420_007.mp4
+2025-07-07 23:02:19,911 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:19,912 - INFO - ----------------------
+2025-07-07 23:02:19,912 - INFO - Processing video pair: videos/2852_008.mp4 and videos/2852_011.mp4
+2025-07-07 23:02:21,604 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:21,605 - INFO - ----------------------
+2025-07-07 23:02:21,605 - INFO - Processing video pair: videos/1086_015.mp4 and videos/2539_000.mp4
+2025-07-07 23:02:23,293 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:23,293 - INFO - ----------------------
+2025-07-07 23:02:23,293 - INFO - Processing video pair: videos/3215_007.mp4 and videos/4977_007.mp4
+2025-07-07 23:02:24,873 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:24,873 - INFO - ----------------------
+2025-07-07 23:02:24,873 - INFO - Processing video pair: videos/3815_008.mp4 and videos/3941_003.mp4
+2025-07-07 23:02:26,974 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:26,975 - INFO - ----------------------
+2025-07-07 23:02:26,975 - INFO - Processing video pair: videos/137_003.mp4 and videos/4710_006.mp4
+2025-07-07 23:02:28,893 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:28,893 - INFO - ----------------------
+2025-07-07 23:02:28,893 - INFO - Processing video pair: videos/1029_002.mp4 and videos/1086_015.mp4
+2025-07-07 23:02:30,689 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:30,690 - INFO - ----------------------
+2025-07-07 23:02:30,690 - INFO - Processing video pair: videos/2535_019.mp4 and videos/3815_008.mp4
+2025-07-07 23:02:32,656 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:32,657 - INFO - ----------------------
+2025-07-07 23:02:32,657 - INFO - Processing video pair: videos/455_003.mp4 and videos/859_003.mp4
+2025-07-07 23:02:34,341 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:34,341 - INFO - ----------------------
+2025-07-07 23:02:34,341 - INFO - Processing video pair: videos/3460_014.mp4 and videos/25_007.mp4
+2025-07-07 23:02:36,292 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:36,292 - INFO - ----------------------
+2025-07-07 23:02:36,292 - INFO - Processing video pair: videos/4087_002.mp4 and videos/817_012.mp4
+2025-07-07 23:02:38,167 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:38,167 - INFO - ----------------------
+2025-07-07 23:02:38,167 - INFO - Processing video pair: videos/3858_006.mp4 and videos/2048_002.mp4
+2025-07-07 23:02:39,908 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:39,908 - INFO - ----------------------
+2025-07-07 23:02:39,909 - INFO - Processing video pair: videos/5429_002.mp4 and videos/743_006.mp4
+2025-07-07 23:02:41,578 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:41,579 - INFO - ----------------------
+2025-07-07 23:02:41,579 - INFO - Processing video pair: videos/41_009.mp4 and videos/774_034.mp4
+2025-07-07 23:02:43,266 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:43,266 - INFO - ----------------------
+2025-07-07 23:02:43,266 - INFO - Processing video pair: videos/1417_001.mp4 and videos/2667_001.mp4
+2025-07-07 23:02:44,958 - INFO - Processed Answer: ['1']
+2025-07-07 23:02:44,958 - INFO - ----------------------
+2025-07-07 23:02:44,958 - INFO - Processing video pair: videos/6086_009.mp4 and videos/2276_000.mp4
+2025-07-07 23:02:46,687 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:46,687 - INFO - ----------------------
+2025-07-07 23:02:46,687 - INFO - Processing video pair: videos/1303_002.mp4 and videos/2197_002.mp4
+2025-07-07 23:02:48,715 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:48,716 - INFO - ----------------------
+2025-07-07 23:02:48,716 - INFO - Processing video pair: videos/218_001.mp4 and videos/3941_003.mp4
+2025-07-07 23:02:50,707 - INFO - Processed Answer: ['4']
+2025-07-07 23:02:50,707 - INFO - ----------------------
+2025-07-07 23:02:50,707 - INFO - Processing video pair: videos/2731_001.mp4 and videos/3335_001.mp4
+2025-07-07 23:02:52,709 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:52,709 - INFO - ----------------------
+2025-07-07 23:02:52,709 - INFO - Processing video pair: videos/2257_007.mp4 and videos/6191_011.mp4
+2025-07-07 23:02:54,302 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:54,302 - INFO - ----------------------
+2025-07-07 23:02:54,302 - INFO - Processing video pair: videos/2852_008.mp4 and videos/2852_010.mp4
+2025-07-07 23:02:56,105 - INFO - Processed Answer: ['4']
+2025-07-07 23:02:56,105 - INFO - ----------------------
+2025-07-07 23:02:56,105 - INFO - Processing video pair: videos/1050_002.mp4 and videos/359_001.mp4
+2025-07-07 23:02:57,911 - INFO - Processed Answer: ['1']
+2025-07-07 23:02:57,912 - INFO - ----------------------
+2025-07-07 23:02:57,912 - INFO - Processing video pair: videos/2258_003.mp4 and videos/2276_000.mp4
+2025-07-07 23:02:59,700 - INFO - Processed Answer: ['3']
+2025-07-07 23:02:59,700 - INFO - ----------------------
+2025-07-07 23:02:59,700 - INFO - Processing video pair: videos/3417_009.mp4 and videos/780_004.mp4
+2025-07-07 23:03:01,571 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:01,571 - INFO - ----------------------
+2025-07-07 23:03:01,571 - INFO - Processing video pair: videos/1938_001.mp4 and videos/2353_003.mp4
+2025-07-07 23:03:03,198 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:03,198 - INFO - ----------------------
+2025-07-07 23:03:03,199 - INFO - Processing video pair: videos/4753_033.mp4 and videos/589_016.mp4
+2025-07-07 23:03:04,916 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:04,916 - INFO - ----------------------
+2025-07-07 23:03:04,917 - INFO - Processing video pair: videos/1254_000.mp4 and videos/4590_001.mp4
+2025-07-07 23:03:07,168 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:07,168 - INFO - ----------------------
+2025-07-07 23:03:07,168 - INFO - Processing video pair: videos/5135_002.mp4 and videos/1606_003.mp4
+2025-07-07 23:03:09,157 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:09,157 - INFO - ----------------------
+2025-07-07 23:03:09,157 - INFO - Processing video pair: videos/334_003.mp4 and videos/3578_000.mp4
+2025-07-07 23:03:10,827 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:10,828 - INFO - ----------------------
+2025-07-07 23:03:10,828 - INFO - Processing video pair: videos/3586_007.mp4 and videos/508_009.mp4
+2025-07-07 23:03:12,528 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:12,529 - INFO - ----------------------
+2025-07-07 23:03:12,529 - INFO - Processing video pair: videos/1272_000.mp4 and videos/837_022.mp4
+2025-07-07 23:03:14,242 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:14,242 - INFO - ----------------------
+2025-07-07 23:03:14,243 - INFO - Processing video pair: videos/3170_010.mp4 and videos/3170_011.mp4
+2025-07-07 23:03:15,946 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:15,947 - INFO - ----------------------
+2025-07-07 23:03:15,947 - INFO - Processing video pair: videos/1071_005.mp4 and videos/572_005.mp4
+2025-07-07 23:03:17,891 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:17,891 - INFO - ----------------------
+2025-07-07 23:03:17,891 - INFO - Processing video pair: videos/884_008.mp4 and videos/45_004.mp4
+2025-07-07 23:03:19,617 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:19,617 - INFO - ----------------------
+2025-07-07 23:03:19,618 - INFO - Processing video pair: videos/4241_006.mp4 and videos/2605_005.mp4
+2025-07-07 23:03:21,426 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:21,427 - INFO - ----------------------
+2025-07-07 23:03:21,427 - INFO - Processing video pair: videos/3972_011.mp4 and videos/3972_012.mp4
+2025-07-07 23:03:23,184 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:23,184 - INFO - ----------------------
+2025-07-07 23:03:23,184 - INFO - Processing video pair: videos/1514_005.mp4 and videos/650_001.mp4
+2025-07-07 23:03:25,002 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:25,002 - INFO - ----------------------
+2025-07-07 23:03:25,003 - INFO - Processing video pair: videos/1084_006.mp4 and videos/2511_007.mp4
+2025-07-07 23:03:26,695 - INFO - Processed Answer: ['1']
+2025-07-07 23:03:26,695 - INFO - ----------------------
+2025-07-07 23:03:26,696 - INFO - Processing video pair: videos/2105_017.mp4 and videos/4473_005.mp4
+2025-07-07 23:03:28,462 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:28,462 - INFO - ----------------------
+2025-07-07 23:03:28,462 - INFO - Processing video pair: videos/41_005.mp4 and videos/45_011.mp4
+2025-07-07 23:03:30,125 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:30,125 - INFO - ----------------------
+2025-07-07 23:03:30,125 - INFO - Processing video pair: videos/1373_002.mp4 and videos/775_003.mp4
+2025-07-07 23:03:31,761 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:31,761 - INFO - ----------------------
+2025-07-07 23:03:31,761 - INFO - Processing video pair: videos/1954_002.mp4 and videos/6362_006.mp4
+2025-07-07 23:03:33,500 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:33,500 - INFO - ----------------------
+2025-07-07 23:03:33,500 - INFO - Processing video pair: videos/6794_006.mp4 and videos/2567_007.mp4
+2025-07-07 23:03:35,348 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:35,348 - INFO - ----------------------
+2025-07-07 23:03:35,348 - INFO - Processing video pair: videos/5567_002.mp4 and videos/148_006.mp4
+2025-07-07 23:03:37,073 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:37,073 - INFO - ----------------------
+2025-07-07 23:03:37,073 - INFO - Processing video pair: videos/4345_008.mp4 and videos/30_001.mp4
+2025-07-07 23:03:39,006 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:39,006 - INFO - ----------------------
+2025-07-07 23:03:39,007 - INFO - Processing video pair: videos/1514_005.mp4 and videos/536_000.mp4
+2025-07-07 23:03:40,772 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:40,772 - INFO - ----------------------
+2025-07-07 23:03:40,773 - INFO - Processing video pair: videos/5284_005.mp4 and videos/119_006.mp4
+2025-07-07 23:03:42,458 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:42,459 - INFO - ----------------------
+2025-07-07 23:03:42,459 - INFO - Processing video pair: videos/6794_011.mp4 and videos/2567_006.mp4
+2025-07-07 23:03:44,438 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:44,438 - INFO - ----------------------
+2025-07-07 23:03:44,438 - INFO - Processing video pair: videos/1927_006.mp4 and videos/2777_003.mp4
+2025-07-07 23:03:46,124 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:46,124 - INFO - ----------------------
+2025-07-07 23:03:46,124 - INFO - Processing video pair: videos/2035_000.mp4 and videos/984_001.mp4
+2025-07-07 23:03:47,885 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:47,885 - INFO - ----------------------
+2025-07-07 23:03:47,885 - INFO - Processing video pair: videos/1329_001.mp4 and videos/3874_002.mp4
+2025-07-07 23:03:49,907 - INFO - Processed Answer: ['1']
+2025-07-07 23:03:49,907 - INFO - ----------------------
+2025-07-07 23:03:49,907 - INFO - Processing video pair: videos/6068_002.mp4 and videos/2670_005.mp4
+2025-07-07 23:03:51,755 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:51,755 - INFO - ----------------------
+2025-07-07 23:03:51,755 - INFO - Processing video pair: videos/2395_005.mp4 and videos/1358_006.mp4
+2025-07-07 23:03:53,426 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:53,427 - INFO - ----------------------
+2025-07-07 23:03:53,427 - INFO - Processing video pair: videos/1088_006.mp4 and videos/1171_009.mp4
+2025-07-07 23:03:55,386 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:55,386 - INFO - ----------------------
+2025-07-07 23:03:55,386 - INFO - Processing video pair: videos/4681_010.mp4 and videos/4835_010.mp4
+2025-07-07 23:03:57,006 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:57,006 - INFO - ----------------------
+2025-07-07 23:03:57,006 - INFO - Processing video pair: videos/1073_003.mp4 and videos/785_005.mp4
+2025-07-07 23:03:58,734 - INFO - Processed Answer: ['3']
+2025-07-07 23:03:58,734 - INFO - ----------------------
+2025-07-07 23:03:58,734 - INFO - Processing video pair: videos/3189_001.mp4 and videos/962_006.mp4
+2025-07-07 23:04:00,691 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:00,691 - INFO - ----------------------
+2025-07-07 23:04:00,692 - INFO - Processing video pair: videos/6096_010.mp4 and videos/4146_004.mp4
+2025-07-07 23:04:02,381 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:02,381 - INFO - ----------------------
+2025-07-07 23:04:02,381 - INFO - Processing video pair: videos/2257_040.mp4 and videos/4632_004.mp4
+2025-07-07 23:04:04,151 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:04,152 - INFO - ----------------------
+2025-07-07 23:04:04,152 - INFO - Processing video pair: videos/1734_008.mp4 and videos/4510_038.mp4
+2025-07-07 23:04:06,011 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:06,011 - INFO - ----------------------
+2025-07-07 23:04:06,012 - INFO - Processing video pair: videos/41_013.mp4 and videos/45_002.mp4
+2025-07-07 23:04:07,643 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:07,644 - INFO - ----------------------
+2025-07-07 23:04:07,644 - INFO - Processing video pair: videos/4087_003.mp4 and videos/685_000.mp4
+2025-07-07 23:04:09,261 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:09,261 - INFO - ----------------------
+2025-07-07 23:04:09,261 - INFO - Processing video pair: videos/3291_003.mp4 and videos/3919_004.mp4
+2025-07-07 23:04:11,077 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:11,077 - INFO - ----------------------
+2025-07-07 23:04:11,078 - INFO - Processing video pair: videos/2002_007.mp4 and videos/2283_013.mp4
+2025-07-07 23:04:12,897 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:12,897 - INFO - ----------------------
+2025-07-07 23:04:12,898 - INFO - Processing video pair: videos/1229_001.mp4 and videos/1907_002.mp4
+2025-07-07 23:04:14,779 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:14,779 - INFO - ----------------------
+2025-07-07 23:04:14,780 - INFO - Processing video pair: videos/3701_000.mp4 and videos/3701_009.mp4
+2025-07-07 23:04:16,448 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:16,448 - INFO - ----------------------
+2025-07-07 23:04:16,448 - INFO - Processing video pair: videos/1281_017.mp4 and videos/3471_005.mp4
+2025-07-07 23:04:18,235 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:18,235 - INFO - ----------------------
+2025-07-07 23:04:18,235 - INFO - Processing video pair: videos/1537_014.mp4 and videos/651_033.mp4
+2025-07-07 23:04:19,838 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:19,838 - INFO - ----------------------
+2025-07-07 23:04:19,838 - INFO - Processing video pair: videos/3023_004.mp4 and videos/883_000.mp4
+2025-07-07 23:04:21,611 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:21,611 - INFO - ----------------------
+2025-07-07 23:04:21,612 - INFO - Processing video pair: videos/1071_014.mp4 and videos/3357_005.mp4
+2025-07-07 23:04:23,437 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:23,437 - INFO - ----------------------
+2025-07-07 23:04:23,438 - INFO - Processing video pair: videos/6077_001.mp4 and videos/6086_009.mp4
+2025-07-07 23:04:25,266 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:25,267 - INFO - ----------------------
+2025-07-07 23:04:25,267 - INFO - Processing video pair: videos/1438_018.mp4 and videos/1557_003.mp4
+2025-07-07 23:04:26,885 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:26,885 - INFO - ----------------------
+2025-07-07 23:04:26,885 - INFO - Processing video pair: videos/4762_011.mp4 and videos/957_007.mp4
+2025-07-07 23:04:28,683 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:28,683 - INFO - ----------------------
+2025-07-07 23:04:28,683 - INFO - Processing video pair: videos/2410_005.mp4 and videos/2636_003.mp4
+2025-07-07 23:04:30,399 - INFO - Processed Answer: ['1']
+2025-07-07 23:04:30,399 - INFO - ----------------------
+2025-07-07 23:04:30,399 - INFO - Processing video pair: videos/3671_003.mp4 and videos/1606_003.mp4
+2025-07-07 23:04:32,543 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:32,543 - INFO - ----------------------
+2025-07-07 23:04:32,544 - INFO - Processing video pair: videos/2283_013.mp4 and videos/5429_013.mp4
+2025-07-07 23:04:34,382 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:34,382 - INFO - ----------------------
+2025-07-07 23:04:34,383 - INFO - Processing video pair: videos/1159_001.mp4 and videos/484_000.mp4
+2025-07-07 23:04:36,289 - INFO - Processed Answer: ['1']
+2025-07-07 23:04:36,289 - INFO - ----------------------
+2025-07-07 23:04:36,289 - INFO - Processing video pair: videos/1606_003.mp4 and videos/2605_005.mp4
+2025-07-07 23:04:38,350 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:38,350 - INFO - ----------------------
+2025-07-07 23:04:38,350 - INFO - Processing video pair: videos/2670_008.mp4 and videos/4530_004.mp4
+2025-07-07 23:04:40,049 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:40,049 - INFO - ----------------------
+2025-07-07 23:04:40,050 - INFO - Processing video pair: videos/1073_003.mp4 and videos/3243_009.mp4
+2025-07-07 23:04:41,846 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:41,846 - INFO - ----------------------
+2025-07-07 23:04:41,846 - INFO - Processing video pair: videos/2580_009.mp4 and videos/3640_014.mp4
+2025-07-07 23:04:43,503 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:43,503 - INFO - ----------------------
+2025-07-07 23:04:43,503 - INFO - Processing video pair: videos/1645_003.mp4 and videos/3491_003.mp4
+2025-07-07 23:04:45,206 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:45,206 - INFO - ----------------------
+2025-07-07 23:04:45,207 - INFO - Processing video pair: videos/2231_008.mp4 and videos/437_014.mp4
+2025-07-07 23:04:46,849 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:46,849 - INFO - ----------------------
+2025-07-07 23:04:46,849 - INFO - Processing video pair: videos/3520_015.mp4 and videos/3520_016.mp4
+2025-07-07 23:04:48,557 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:48,557 - INFO - ----------------------
+2025-07-07 23:04:48,557 - INFO - Processing video pair: videos/1657_000.mp4 and videos/2120_000.mp4
+2025-07-07 23:04:50,607 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:50,607 - INFO - ----------------------
+2025-07-07 23:04:50,607 - INFO - Processing video pair: videos/1071_003.mp4 and videos/4087_003.mp4
+2025-07-07 23:04:52,356 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:52,356 - INFO - ----------------------
+2025-07-07 23:04:52,356 - INFO - Processing video pair: videos/1202_011.mp4 and videos/4835_010.mp4
+2025-07-07 23:04:54,023 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:54,024 - INFO - ----------------------
+2025-07-07 23:04:54,024 - INFO - Processing video pair: videos/3586_007.mp4 and videos/420_007.mp4
+2025-07-07 23:04:55,826 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:55,827 - INFO - ----------------------
+2025-07-07 23:04:55,827 - INFO - Processing video pair: videos/4241_006.mp4 and videos/1571_007.mp4
+2025-07-07 23:04:57,663 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:57,663 - INFO - ----------------------
+2025-07-07 23:04:57,664 - INFO - Processing video pair: videos/4473_005.mp4 and videos/3210_009.mp4
+2025-07-07 23:04:59,501 - INFO - Processed Answer: ['3']
+2025-07-07 23:04:59,501 - INFO - ----------------------
+2025-07-07 23:04:59,501 - INFO - Processing video pair: videos/3156_002.mp4 and videos/351_000.mp4
+2025-07-07 23:05:01,154 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:01,154 - INFO - ----------------------
+2025-07-07 23:05:01,154 - INFO - Processing video pair: videos/4141_002.mp4 and videos/851_002.mp4
+2025-07-07 23:05:02,912 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:02,913 - INFO - ----------------------
+2025-07-07 23:05:02,913 - INFO - Processing video pair: videos/2460_000.mp4 and videos/3156_002.mp4
+2025-07-07 23:05:04,543 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:04,544 - INFO - ----------------------
+2025-07-07 23:05:04,544 - INFO - Processing video pair: videos/2393_007.mp4 and videos/885_001.mp4
+2025-07-07 23:05:06,352 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:06,353 - INFO - ----------------------
+2025-07-07 23:05:06,353 - INFO - Processing video pair: videos/5284_005.mp4 and videos/4530_004.mp4
+2025-07-07 23:05:08,068 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:08,068 - INFO - ----------------------
+2025-07-07 23:05:08,068 - INFO - Processing video pair: videos/1897_000.mp4 and videos/2198_011.mp4
+2025-07-07 23:05:09,762 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:09,762 - INFO - ----------------------
+2025-07-07 23:05:09,762 - INFO - Processing video pair: videos/24_002.mp4 and videos/790_007.mp4
+2025-07-07 23:05:11,419 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:11,419 - INFO - ----------------------
+2025-07-07 23:05:11,419 - INFO - Processing video pair: videos/4748_005.mp4 and videos/6077_001.mp4
+2025-07-07 23:05:13,197 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:13,197 - INFO - ----------------------
+2025-07-07 23:05:13,198 - INFO - Processing video pair: videos/3874_002.mp4 and videos/2048_002.mp4
+2025-07-07 23:05:15,060 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:15,060 - INFO - ----------------------
+2025-07-07 23:05:15,060 - INFO - Processing video pair: videos/3170_010.mp4 and videos/790_007.mp4
+2025-07-07 23:05:16,695 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:16,695 - INFO - ----------------------
+2025-07-07 23:05:16,695 - INFO - Processing video pair: videos/2667_001.mp4 and videos/6077_003.mp4
+2025-07-07 23:05:18,295 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:18,295 - INFO - ----------------------
+2025-07-07 23:05:18,295 - INFO - Processing video pair: videos/108_005.mp4 and videos/2511_007.mp4
+2025-07-07 23:05:20,354 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:20,354 - INFO - ----------------------
+2025-07-07 23:05:20,354 - INFO - Processing video pair: videos/1303_002.mp4 and videos/19_001.mp4
+2025-07-07 23:05:22,399 - INFO - Processed Answer: ['1']
+2025-07-07 23:05:22,399 - INFO - ----------------------
+2025-07-07 23:05:22,399 - INFO - Processing video pair: videos/2630_003.mp4 and videos/4530_004.mp4
+2025-07-07 23:05:24,078 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:24,078 - INFO - ----------------------
+2025-07-07 23:05:24,078 - INFO - Processing video pair: videos/4473_005.mp4 and videos/2048_002.mp4
+2025-07-07 23:05:25,823 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:25,823 - INFO - ----------------------
+2025-07-07 23:05:25,823 - INFO - Processing video pair: videos/176_002.mp4 and videos/4492_002.mp4
+2025-07-07 23:05:27,655 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:27,655 - INFO - ----------------------
+2025-07-07 23:05:27,655 - INFO - Processing video pair: videos/2268_002.mp4 and videos/885_001.mp4
+2025-07-07 23:05:29,546 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:29,546 - INFO - ----------------------
+2025-07-07 23:05:29,546 - INFO - Processing video pair: videos/817_012.mp4 and videos/536_000.mp4
+2025-07-07 23:05:31,334 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:31,334 - INFO - ----------------------
+2025-07-07 23:05:31,335 - INFO - Processing video pair: videos/3215_007.mp4 and videos/1677_018.mp4
+2025-07-07 23:05:32,992 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:32,992 - INFO - ----------------------
+2025-07-07 23:05:32,992 - INFO - Processing video pair: videos/3358_013.mp4 and videos/3863_003.mp4
+2025-07-07 23:05:34,740 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:34,741 - INFO - ----------------------
+2025-07-07 23:05:34,741 - INFO - Processing video pair: videos/1329_001.mp4 and videos/4347_005.mp4
+2025-07-07 23:05:36,509 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:36,509 - INFO - ----------------------
+2025-07-07 23:05:36,509 - INFO - Processing video pair: videos/268_000.mp4 and videos/6077_003.mp4
+2025-07-07 23:05:38,192 - INFO - Processed Answer: ['1']
+2025-07-07 23:05:38,192 - INFO - ----------------------
+2025-07-07 23:05:38,192 - INFO - Processing video pair: videos/1126_002.mp4 and videos/1417_001.mp4
+2025-07-07 23:05:39,919 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:39,920 - INFO - ----------------------
+2025-07-07 23:05:39,920 - INFO - Processing video pair: videos/1645_000.mp4 and videos/1855_000.mp4
+2025-07-07 23:05:41,648 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:41,648 - INFO - ----------------------
+2025-07-07 23:05:41,648 - INFO - Processing video pair: videos/3170_010.mp4 and videos/3972_012.mp4
+2025-07-07 23:05:43,327 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:43,327 - INFO - ----------------------
+2025-07-07 23:05:43,327 - INFO - Processing video pair: videos/1514_005.mp4 and videos/1514_008.mp4
+2025-07-07 23:05:45,176 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:45,176 - INFO - ----------------------
+2025-07-07 23:05:45,176 - INFO - Processing video pair: videos/2852_008.mp4 and videos/591_001.mp4
+2025-07-07 23:05:46,988 - INFO - Processed Answer: ['1']
+2025-07-07 23:05:46,988 - INFO - ----------------------
+2025-07-07 23:05:46,988 - INFO - Processing video pair: videos/5935_001.mp4 and videos/6152_006.mp4
+2025-07-07 23:05:48,719 - INFO - Processed Answer: ['1']
+2025-07-07 23:05:48,719 - INFO - ----------------------
+2025-07-07 23:05:48,720 - INFO - Processing video pair: videos/1088_006.mp4 and videos/1088_007.mp4
+2025-07-07 23:05:50,477 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:50,477 - INFO - ----------------------
+2025-07-07 23:05:50,477 - INFO - Processing video pair: videos/473_006.mp4 and videos/6077_001.mp4
+2025-07-07 23:05:52,274 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:52,275 - INFO - ----------------------
+2025-07-07 23:05:52,275 - INFO - Processing video pair: videos/1281_017.mp4 and videos/785_005.mp4
+2025-07-07 23:05:53,977 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:53,977 - INFO - ----------------------
+2025-07-07 23:05:53,977 - INFO - Processing video pair: videos/2257_040.mp4 and videos/41_005.mp4
+2025-07-07 23:05:55,676 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:55,676 - INFO - ----------------------
+2025-07-07 23:05:55,677 - INFO - Processing video pair: videos/3858_006.mp4 and videos/2393_007.mp4
+2025-07-07 23:05:57,515 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:57,515 - INFO - ----------------------
+2025-07-07 23:05:57,515 - INFO - Processing video pair: videos/2221_012.mp4 and videos/4689_008.mp4
+2025-07-07 23:05:59,187 - INFO - Processed Answer: ['3']
+2025-07-07 23:05:59,187 - INFO - ----------------------
+2025-07-07 23:05:59,188 - INFO - Processing video pair: videos/1449_002.mp4 and videos/2486_001.mp4
+2025-07-07 23:06:00,788 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:00,788 - INFO - ----------------------
+2025-07-07 23:06:00,788 - INFO - Processing video pair: videos/4548_005.mp4 and videos/1525_004.mp4
+2025-07-07 23:06:02,413 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:02,413 - INFO - ----------------------
+2025-07-07 23:06:02,414 - INFO - Processing video pair: videos/1016_004.mp4 and videos/3170_010.mp4
+2025-07-07 23:06:04,245 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:04,245 - INFO - ----------------------
+2025-07-07 23:06:04,245 - INFO - Processing video pair: videos/6068_002.mp4 and videos/4681_010.mp4
+2025-07-07 23:06:06,071 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:06,071 - INFO - ----------------------
+2025-07-07 23:06:06,072 - INFO - Processing video pair: videos/121_003.mp4 and videos/4075_003.mp4
+2025-07-07 23:06:07,699 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:07,699 - INFO - ----------------------
+2025-07-07 23:06:07,699 - INFO - Processing video pair: videos/3491_003.mp4 and videos/422_002.mp4
+2025-07-07 23:06:09,599 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:09,600 - INFO - ----------------------
+2025-07-07 23:06:09,600 - INFO - Processing video pair: videos/19_001.mp4 and videos/30_001.mp4
+2025-07-07 23:06:11,640 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:11,640 - INFO - ----------------------
+2025-07-07 23:06:11,641 - INFO - Processing video pair: videos/4510_005.mp4 and videos/4510_038.mp4
+2025-07-07 23:06:13,273 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:13,273 - INFO - ----------------------
+2025-07-07 23:06:13,273 - INFO - Processing video pair: videos/5429_002.mp4 and videos/6068_002.mp4
+2025-07-07 23:06:15,077 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:15,077 - INFO - ----------------------
+2025-07-07 23:06:15,077 - INFO - Processing video pair: videos/508_004.mp4 and videos/4710_006.mp4
+2025-07-07 23:06:16,759 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:16,760 - INFO - ----------------------
+2025-07-07 23:06:16,760 - INFO - Processing video pair: videos/4087_002.mp4 and videos/422_002.mp4
+2025-07-07 23:06:18,640 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:18,640 - INFO - ----------------------
+2025-07-07 23:06:18,640 - INFO - Processing video pair: videos/1514_008.mp4 and videos/1607_009.mp4
+2025-07-07 23:06:20,459 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:20,459 - INFO - ----------------------
+2025-07-07 23:06:20,459 - INFO - Processing video pair: videos/4652_009.mp4 and videos/1433_000.mp4
+2025-07-07 23:06:22,167 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:22,167 - INFO - ----------------------
+2025-07-07 23:06:22,167 - INFO - Processing video pair: videos/1126_002.mp4 and videos/4679_004.mp4
+2025-07-07 23:06:23,805 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:23,805 - INFO - ----------------------
+2025-07-07 23:06:23,805 - INFO - Processing video pair: videos/1434_008.mp4 and videos/4689_008.mp4
+2025-07-07 23:06:25,626 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:25,626 - INFO - ----------------------
+2025-07-07 23:06:25,626 - INFO - Processing video pair: videos/883_008.mp4 and videos/2687_001.mp4
+2025-07-07 23:06:27,427 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:27,427 - INFO - ----------------------
+2025-07-07 23:06:27,427 - INFO - Processing video pair: videos/334_003.mp4 and videos/930_003.mp4
+2025-07-07 23:06:29,093 - INFO - Processed Answer: ['1']
+2025-07-07 23:06:29,093 - INFO - ----------------------
+2025-07-07 23:06:29,094 - INFO - Processing video pair: videos/2670_008.mp4 and videos/45_018.mp4
+2025-07-07 23:06:30,735 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:30,735 - INFO - ----------------------
+2025-07-07 23:06:30,735 - INFO - Processing video pair: videos/4103_004.mp4 and videos/1018_004.mp4
+2025-07-07 23:06:32,458 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:32,458 - INFO - ----------------------
+2025-07-07 23:06:32,458 - INFO - Processing video pair: videos/2486_001.mp4 and videos/573_026.mp4
+2025-07-07 23:06:34,228 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:34,228 - INFO - ----------------------
+2025-07-07 23:06:34,228 - INFO - Processing video pair: videos/148_002.mp4 and videos/2630_003.mp4
+2025-07-07 23:06:35,854 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:35,854 - INFO - ----------------------
+2025-07-07 23:06:35,854 - INFO - Processing video pair: videos/2978_008.mp4 and videos/725_001.mp4
+2025-07-07 23:06:37,512 - INFO - Processed Answer: ['1']
+2025-07-07 23:06:37,512 - INFO - ----------------------
+2025-07-07 23:06:37,513 - INFO - Processing video pair: videos/2737_001.mp4 and videos/2978_008.mp4
+2025-07-07 23:06:39,191 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:39,192 - INFO - ----------------------
+2025-07-07 23:06:39,192 - INFO - Processing video pair: videos/3104_007.mp4 and videos/2567_006.mp4
+2025-07-07 23:06:41,241 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:41,241 - INFO - ----------------------
+2025-07-07 23:06:41,242 - INFO - Processing video pair: videos/4530_004.mp4 and videos/45_007.mp4
+2025-07-07 23:06:42,918 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:42,918 - INFO - ----------------------
+2025-07-07 23:06:42,918 - INFO - Processing video pair: videos/2082_008.mp4 and videos/4172_010.mp4
+2025-07-07 23:06:44,748 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:44,748 - INFO - ----------------------
+2025-07-07 23:06:44,748 - INFO - Processing video pair: videos/1627_003.mp4 and videos/3325_000.mp4
+2025-07-07 23:06:46,427 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:46,427 - INFO - ----------------------
+2025-07-07 23:06:46,427 - INFO - Processing video pair: videos/2326_006.mp4 and videos/930_003.mp4
+2025-07-07 23:06:48,098 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:48,098 - INFO - ----------------------
+2025-07-07 23:06:48,099 - INFO - Processing video pair: videos/1920_003.mp4 and videos/64_003.mp4
+2025-07-07 23:06:50,193 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:50,193 - INFO - ----------------------
+2025-07-07 23:06:50,193 - INFO - Processing video pair: videos/1553_010.mp4 and videos/6096_010.mp4
+2025-07-07 23:06:52,027 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:52,027 - INFO - ----------------------
+2025-07-07 23:06:52,027 - INFO - Processing video pair: videos/1029_002.mp4 and videos/1959_005.mp4
+2025-07-07 23:06:53,789 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:53,789 - INFO - ----------------------
+2025-07-07 23:06:53,789 - INFO - Processing video pair: videos/3941_003.mp4 and videos/420_007.mp4
+2025-07-07 23:06:55,899 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:55,899 - INFO - ----------------------
+2025-07-07 23:06:55,899 - INFO - Processing video pair: videos/1954_002.mp4 and videos/1421_010.mp4
+2025-07-07 23:06:57,603 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:57,603 - INFO - ----------------------
+2025-07-07 23:06:57,603 - INFO - Processing video pair: videos/2257_040.mp4 and videos/862_023.mp4
+2025-07-07 23:06:59,325 - INFO - Processed Answer: ['3']
+2025-07-07 23:06:59,325 - INFO - ----------------------
+2025-07-07 23:06:59,325 - INFO - Processing video pair: videos/4632_004.mp4 and videos/5093_007.mp4
+2025-07-07 23:07:01,062 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:01,062 - INFO - ----------------------
+2025-07-07 23:07:01,062 - INFO - Processing video pair: videos/4753_016.mp4 and videos/4753_024.mp4
+2025-07-07 23:07:02,724 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:02,725 - INFO - ----------------------
+2025-07-07 23:07:02,725 - INFO - Processing video pair: videos/4776_006.mp4 and videos/785_005.mp4
+2025-07-07 23:07:04,346 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:04,346 - INFO - ----------------------
+2025-07-07 23:07:04,346 - INFO - Processing video pair: videos/2035_000.mp4 and videos/2085_002.mp4
+2025-07-07 23:07:06,202 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:06,203 - INFO - ----------------------
+2025-07-07 23:07:06,203 - INFO - Processing video pair: videos/2200_000.mp4 and videos/3156_002.mp4
+2025-07-07 23:07:07,889 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:07,889 - INFO - ----------------------
+2025-07-07 23:07:07,889 - INFO - Processing video pair: videos/2105_017.mp4 and videos/4274_002.mp4
+2025-07-07 23:07:09,659 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:09,660 - INFO - ----------------------
+2025-07-07 23:07:09,660 - INFO - Processing video pair: videos/1126_002.mp4 and videos/930_003.mp4
+2025-07-07 23:07:11,332 - INFO - Processed Answer: ['1']
+2025-07-07 23:07:11,332 - INFO - ----------------------
+2025-07-07 23:07:11,332 - INFO - Processing video pair: videos/589_009.mp4 and videos/6068_002.mp4
+2025-07-07 23:07:13,140 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:13,140 - INFO - ----------------------
+2025-07-07 23:07:13,141 - INFO - Processing video pair: videos/2737_020.mp4 and videos/2825_010.mp4
+2025-07-07 23:07:14,768 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:14,768 - INFO - ----------------------
+2025-07-07 23:07:14,768 - INFO - Processing video pair: videos/2164_013.mp4 and videos/6302_016.mp4
+2025-07-07 23:07:16,340 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:16,340 - INFO - ----------------------
+2025-07-07 23:07:16,341 - INFO - Processing video pair: videos/4278_005.mp4 and videos/1433_000.mp4
+2025-07-07 23:07:18,142 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:18,142 - INFO - ----------------------
+2025-07-07 23:07:18,142 - INFO - Processing video pair: videos/2002_006.mp4 and videos/437_014.mp4
+2025-07-07 23:07:19,761 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:19,761 - INFO - ----------------------
+2025-07-07 23:07:19,761 - INFO - Processing video pair: videos/2283_020.mp4 and videos/2195_032.mp4
+2025-07-07 23:07:21,535 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:21,535 - INFO - ----------------------
+2025-07-07 23:07:21,536 - INFO - Processing video pair: videos/6362_006.mp4 and videos/672_008.mp4
+2025-07-07 23:07:23,339 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:23,339 - INFO - ----------------------
+2025-07-07 23:07:23,339 - INFO - Processing video pair: videos/2894_010.mp4 and videos/74_010.mp4
+2025-07-07 23:07:25,078 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:25,078 - INFO - ----------------------
+2025-07-07 23:07:25,078 - INFO - Processing video pair: videos/4492_002.mp4 and videos/679_006.mp4
+2025-07-07 23:07:26,695 - INFO - Processed Answer: ['4']
+2025-07-07 23:07:26,695 - INFO - ----------------------
+2025-07-07 23:07:26,696 - INFO - Processing video pair: videos/46_002.mp4 and videos/627_002.mp4
+2025-07-07 23:07:28,587 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:28,588 - INFO - ----------------------
+2025-07-07 23:07:28,588 - INFO - Processing video pair: videos/46_002.mp4 and videos/650_001.mp4
+2025-07-07 23:07:30,413 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:30,413 - INFO - ----------------------
+2025-07-07 23:07:30,413 - INFO - Processing video pair: videos/1677_018.mp4 and videos/672_008.mp4
+2025-07-07 23:07:32,110 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:32,110 - INFO - ----------------------
+2025-07-07 23:07:32,110 - INFO - Processing video pair: videos/2670_008.mp4 and videos/3417_009.mp4
+2025-07-07 23:07:33,922 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:33,922 - INFO - ----------------------
+2025-07-07 23:07:33,922 - INFO - Processing video pair: videos/4517_006.mp4 and videos/4828_003.mp4
+2025-07-07 23:07:35,769 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:35,770 - INFO - ----------------------
+2025-07-07 23:07:35,770 - INFO - Processing video pair: videos/1667_003.mp4 and videos/3335_001.mp4
+2025-07-07 23:07:37,654 - INFO - Processed Answer: ['1']
+2025-07-07 23:07:37,654 - INFO - ----------------------
+2025-07-07 23:07:37,655 - INFO - Processing video pair: videos/1126_002.mp4 and videos/2667_001.mp4
+2025-07-07 23:07:39,313 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:39,313 - INFO - ----------------------
+2025-07-07 23:07:39,313 - INFO - Processing video pair: videos/4050_010.mp4 and videos/74_010.mp4
+2025-07-07 23:07:41,111 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:41,112 - INFO - ----------------------
+2025-07-07 23:07:41,112 - INFO - Processing video pair: videos/2283_013.mp4 and videos/3460_014.mp4
+2025-07-07 23:07:43,092 - INFO - Processed Answer: ['4']
+2025-07-07 23:07:43,092 - INFO - ----------------------
+2025-07-07 23:07:43,092 - INFO - Processing video pair: videos/4510_038.mp4 and videos/651_033.mp4
+2025-07-07 23:07:44,738 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:44,738 - INFO - ----------------------
+2025-07-07 23:07:44,739 - INFO - Processing video pair: videos/4753_033.mp4 and videos/4753_050.mp4
+2025-07-07 23:07:46,415 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:46,416 - INFO - ----------------------
+2025-07-07 23:07:46,416 - INFO - Processing video pair: videos/1525_004.mp4 and videos/2110_001.mp4
+2025-07-07 23:07:48,061 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:48,061 - INFO - ----------------------
+2025-07-07 23:07:48,061 - INFO - Processing video pair: videos/1557_003.mp4 and videos/2257_013.mp4
+2025-07-07 23:07:49,667 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:49,667 - INFO - ----------------------
+2025-07-07 23:07:49,667 - INFO - Processing video pair: videos/1005_003.mp4 and videos/1353_005.mp4
+2025-07-07 23:07:51,268 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:51,268 - INFO - ----------------------
+2025-07-07 23:07:51,269 - INFO - Processing video pair: videos/5567_002.mp4 and videos/5567_005.mp4
+2025-07-07 23:07:52,969 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:52,969 - INFO - ----------------------
+2025-07-07 23:07:52,970 - INFO - Processing video pair: videos/2539_000.mp4 and videos/4485_008.mp4
+2025-07-07 23:07:54,569 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:54,569 - INFO - ----------------------
+2025-07-07 23:07:54,569 - INFO - Processing video pair: videos/2105_005.mp4 and videos/2164_004.mp4
+2025-07-07 23:07:56,209 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:56,209 - INFO - ----------------------
+2025-07-07 23:07:56,209 - INFO - Processing video pair: videos/4473_005.mp4 and videos/2268_002.mp4
+2025-07-07 23:07:58,227 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:58,227 - INFO - ----------------------
+2025-07-07 23:07:58,228 - INFO - Processing video pair: videos/1281_017.mp4 and videos/1268_018.mp4
+2025-07-07 23:07:59,987 - INFO - Processed Answer: ['3']
+2025-07-07 23:07:59,987 - INFO - ----------------------
+2025-07-07 23:07:59,987 - INFO - Processing video pair: videos/2592_000.mp4 and videos/2592_011.mp4
+2025-07-07 23:08:01,667 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:01,667 - INFO - ----------------------
+2025-07-07 23:08:01,667 - INFO - Processing video pair: videos/1289_007.mp4 and videos/495_001.mp4
+2025-07-07 23:08:03,628 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:03,628 - INFO - ----------------------
+2025-07-07 23:08:03,629 - INFO - Processing video pair: videos/3689_002.mp4 and videos/3689_007.mp4
+2025-07-07 23:08:05,520 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:05,521 - INFO - ----------------------
+2025-07-07 23:08:05,521 - INFO - Processing video pair: videos/945_004.mp4 and videos/45_002.mp4
+2025-07-07 23:08:07,151 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:07,151 - INFO - ----------------------
+2025-07-07 23:08:07,151 - INFO - Processing video pair: videos/1645_002.mp4 and videos/685_000.mp4
+2025-07-07 23:08:08,811 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:08,811 - INFO - ----------------------
+2025-07-07 23:08:08,812 - INFO - Processing video pair: videos/1607_009.mp4 and videos/74_010.mp4
+2025-07-07 23:08:10,542 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:10,542 - INFO - ----------------------
+2025-07-07 23:08:10,543 - INFO - Processing video pair: videos/3491_003.mp4 and videos/650_001.mp4
+2025-07-07 23:08:12,253 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:12,253 - INFO - ----------------------
+2025-07-07 23:08:12,253 - INFO - Processing video pair: videos/4753_016.mp4 and videos/589_014.mp4
+2025-07-07 23:08:13,881 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:13,881 - INFO - ----------------------
+2025-07-07 23:08:13,882 - INFO - Processing video pair: videos/2268_002.mp4 and videos/2572_000.mp4
+2025-07-07 23:08:15,667 - INFO - Processed Answer: ['1']
+2025-07-07 23:08:15,667 - INFO - ----------------------
+2025-07-07 23:08:15,667 - INFO - Processing video pair: videos/2105_017.mp4 and videos/5951_015.mp4
+2025-07-07 23:08:17,295 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:17,295 - INFO - ----------------------
+2025-07-07 23:08:17,295 - INFO - Processing video pair: videos/2722_001.mp4 and videos/984_001.mp4
+2025-07-07 23:08:19,037 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:19,038 - INFO - ----------------------
+2025-07-07 23:08:19,038 - INFO - Processing video pair: videos/1005_001.mp4 and videos/900_000.mp4
+2025-07-07 23:08:20,671 - INFO - Processed Answer: ['1']
+2025-07-07 23:08:20,671 - INFO - ----------------------
+2025-07-07 23:08:20,671 - INFO - Processing video pair: videos/619_000.mp4 and videos/690_004.mp4
+2025-07-07 23:08:22,399 - INFO - Processed Answer: ['1']
+2025-07-07 23:08:22,400 - INFO - ----------------------
+2025-07-07 23:08:22,400 - INFO - Processing video pair: videos/4652_009.mp4 and videos/962_006.mp4
+2025-07-07 23:08:24,059 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:24,059 - INFO - ----------------------
+2025-07-07 23:08:24,060 - INFO - Processing video pair: videos/508_003.mp4 and videos/508_004.mp4
+2025-07-07 23:08:25,760 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:25,760 - INFO - ----------------------
+2025-07-07 23:08:25,760 - INFO - Processing video pair: videos/3520_014.mp4 and videos/650_001.mp4
+2025-07-07 23:08:27,477 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:27,477 - INFO - ----------------------
+2025-07-07 23:08:27,478 - INFO - Processing video pair: videos/1645_000.mp4 and videos/3357_005.mp4
+2025-07-07 23:08:29,378 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:29,378 - INFO - ----------------------
+2025-07-07 23:08:29,379 - INFO - Processing video pair: videos/3919_004.mp4 and videos/774_034.mp4
+2025-07-07 23:08:31,096 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:31,097 - INFO - ----------------------
+2025-07-07 23:08:31,097 - INFO - Processing video pair: videos/2876_000.mp4 and videos/3214_001.mp4
+2025-07-07 23:08:32,690 - INFO - Processed Answer: ['1']
+2025-07-07 23:08:32,690 - INFO - ----------------------
+2025-07-07 23:08:32,690 - INFO - Processing video pair: videos/146_012.mp4 and videos/3972_011.mp4
+2025-07-07 23:08:34,450 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:34,450 - INFO - ----------------------
+2025-07-07 23:08:34,450 - INFO - Processing video pair: videos/4632_004.mp4 and videos/672_008.mp4
+2025-07-07 23:08:36,214 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:36,214 - INFO - ----------------------
+2025-07-07 23:08:36,214 - INFO - Processing video pair: videos/6302_016.mp4 and videos/4146_004.mp4
+2025-07-07 23:08:37,835 - INFO - Processed Answer: ['3']
+2025-07-07 23:08:37,836 - INFO - ----------------------
+2025-07-07 23:08:37,838 - INFO - Similarities saved to: model_outputs/computed_conditioned_similarities/order_of_actions/Qwen2.5-VL-7B-Instruct/concatenate/16_frames/similarities.json

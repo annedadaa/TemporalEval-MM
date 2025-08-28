@@ -22,7 +22,7 @@
     {
         "video1": "videos/2576_003.mp4",
         "video2": "videos/3234_001.mp4",
-        "similarity": 4.0
+        "similarity": 3.0
     },
     {
         "video1": "videos/3640_014.mp4",
@@ -37,12 +37,12 @@
     {
         "video1": "videos/3225_000.mp4",
         "video2": "videos/4530_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1403_019.mp4",
         "video2": "videos/2535_019.mp4",
-        "similarity": 4.0
+        "similarity": 3.0
     },
     {
         "video1": "videos/6077_001.mp4",
@@ -72,7 +72,7 @@
     {
         "video1": "videos/2828_008.mp4",
         "video2": "videos/3815_008.mp4",
-        "similarity": 4.0
+        "similarity": 3.0
     },
     {
         "video1": "videos/2105_004.mp4",
@@ -92,7 +92,7 @@
     {
         "video1": "videos/836_000.mp4",
         "video2": "videos/836_002.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/146_012.mp4",
@@ -152,7 +152,7 @@
     {
         "video1": "videos/2711_002.mp4",
         "video2": "videos/3325_000.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/2852_008.mp4",
@@ -197,7 +197,7 @@
     {
         "video1": "videos/3368_004.mp4",
         "video2": "videos/574_011.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1734_007.mp4",
@@ -247,7 +247,7 @@
     {
         "video1": "videos/1824_003.mp4",
         "video2": "videos/2848_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2888_000.mp4",
@@ -272,12 +272,12 @@
     {
         "video1": "videos/2410_002.mp4",
         "video2": "videos/2630_003.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/1525_005.mp4",
         "video2": "videos/2110_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/3858_006.mp4",
@@ -287,7 +287,7 @@
     {
         "video1": "videos/1607_004.mp4",
         "video2": "videos/1607_009.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/45_007.mp4",
@@ -342,7 +342,7 @@
     {
         "video1": "videos/2164_017.mp4",
         "video2": "videos/5553_005.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1667_003.mp4",
@@ -352,7 +352,7 @@
     {
         "video1": "videos/1878_002.mp4",
         "video2": "videos/2544_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1071_003.mp4",
@@ -402,7 +402,7 @@
     {
         "video1": "videos/139_002.mp4",
         "video2": "videos/1606_003.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2065_017.mp4",
@@ -462,12 +462,12 @@
     {
         "video1": "videos/1645_003.mp4",
         "video2": "videos/4799_008.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2164_013.mp4",
         "video2": "videos/4753_016.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1303_002.mp4",
@@ -482,7 +482,7 @@
     {
         "video1": "videos/1086_014.mp4",
         "video2": "videos/654_005.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1897_000.mp4",
@@ -547,7 +547,7 @@
     {
         "video1": "videos/1449_002.mp4",
         "video2": "videos/2353_003.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1959_005.mp4",
@@ -617,7 +617,7 @@
     {
         "video1": "videos/1525_004.mp4",
         "video2": "videos/1525_005.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/3637_006.mp4",
@@ -742,7 +742,7 @@
     {
         "video1": "videos/1125_003.mp4",
         "video2": "videos/2197_002.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/3357_005.mp4",
@@ -817,7 +817,7 @@
     {
         "video1": "videos/1754_002.mp4",
         "video2": "videos/4987_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/508_004.mp4",
@@ -877,7 +877,7 @@
     {
         "video1": "videos/3215_025.mp4",
         "video2": "videos/1434_008.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/6191_010.mp4",
@@ -917,12 +917,12 @@
     {
         "video1": "videos/1206_000.mp4",
         "video2": "videos/2353_003.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2085_002.mp4",
         "video2": "videos/2722_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2002_006.mp4",
@@ -932,7 +932,7 @@
     {
         "video1": "videos/2326_006.mp4",
         "video2": "videos/334_003.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2353_003.mp4",
@@ -952,7 +952,7 @@
     {
         "video1": "videos/1086_014.mp4",
         "video2": "videos/1612_007.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1029_006.mp4",
@@ -962,7 +962,7 @@
     {
         "video1": "videos/3041_005.mp4",
         "video2": "videos/3233_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2460_000.mp4",
@@ -987,7 +987,7 @@
     {
         "video1": "videos/1938_001.mp4",
         "video2": "videos/900_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1557_003.mp4",
@@ -1017,7 +1017,7 @@
     {
         "video1": "videos/2257_007.mp4",
         "video2": "videos/3215_007.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/1553_010.mp4",
@@ -1082,12 +1082,12 @@
     {
         "video1": "videos/6700_001.mp4",
         "video2": "videos/6700_003.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/4210_011.mp4",
         "video2": "videos/1606_003.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1754_002.mp4",
@@ -1232,7 +1232,7 @@
     {
         "video1": "videos/3215_031.mp4",
         "video2": "videos/1434_008.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/6700_000.mp4",
@@ -1247,7 +1247,7 @@
     {
         "video1": "videos/2335_002.mp4",
         "video2": "videos/4278_005.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1268_012.mp4",
@@ -1262,7 +1262,7 @@
     {
         "video1": "videos/2894_010.mp4",
         "video2": "videos/3210_009.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/3808_006.mp4",
@@ -1292,7 +1292,7 @@
     {
         "video1": "videos/1415_002.mp4",
         "video2": "videos/1887_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/137_003.mp4",
@@ -1317,7 +1317,7 @@
     {
         "video1": "videos/1433_000.mp4",
         "video2": "videos/2410_005.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/137_003.mp4",
@@ -1332,7 +1332,7 @@
     {
         "video1": "videos/1754_007.mp4",
         "video2": "videos/1754_008.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2008_006.mp4",
@@ -1357,7 +1357,7 @@
     {
         "video1": "videos/4828_003.mp4",
         "video2": "videos/766_015.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1071_003.mp4",
@@ -1377,7 +1377,7 @@
     {
         "video1": "videos/4739_000.mp4",
         "video2": "videos/1433_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1063_007.mp4",
@@ -1422,7 +1422,7 @@
     {
         "video1": "videos/1088_007.mp4",
         "video2": "videos/2385_006.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2572_000.mp4",
@@ -1437,7 +1437,7 @@
     {
         "video1": "videos/1125_003.mp4",
         "video2": "videos/1159_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2257_007.mp4",
@@ -1462,7 +1462,7 @@
     {
         "video1": "videos/3236_013.mp4",
         "video2": "videos/4622_001.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/672_008.mp4",
@@ -1497,7 +1497,7 @@
     {
         "video1": "videos/6191_011.mp4",
         "video2": "videos/1966_010.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2105_004.mp4",
@@ -1507,7 +1507,7 @@
     {
         "video1": "videos/484_000.mp4",
         "video2": "videos/66_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/4530_004.mp4",
@@ -1517,7 +1517,7 @@
     {
         "video1": "videos/1203_004.mp4",
         "video2": "videos/4335_006.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/218_001.mp4",
@@ -1662,7 +1662,7 @@
     {
         "video1": "videos/3189_001.mp4",
         "video2": "videos/725_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2687_001.mp4",
@@ -1672,7 +1672,7 @@
     {
         "video1": "videos/2707_075.mp4",
         "video2": "videos/1429_000.mp4",
-        "similarity": 4.0
+        "similarity": 3.0
     },
     {
         "video1": "videos/409_019.mp4",
@@ -1877,7 +1877,7 @@
     {
         "video1": "videos/1449_002.mp4",
         "video2": "videos/3021_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2945_000.mp4",
@@ -1887,7 +1887,7 @@
     {
         "video1": "videos/2337_001.mp4",
         "video2": "videos/3325_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1715_013.mp4",
@@ -1967,7 +1967,7 @@
     {
         "video1": "videos/1417_001.mp4",
         "video2": "videos/268_000.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/945_004.mp4",
@@ -2002,7 +2002,7 @@
     {
         "video1": "videos/137_003.mp4",
         "video2": "videos/4710_006.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1029_002.mp4",
@@ -2022,7 +2022,7 @@
     {
         "video1": "videos/3460_014.mp4",
         "video2": "videos/25_007.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/4087_002.mp4",
@@ -2047,7 +2047,7 @@
     {
         "video1": "videos/1417_001.mp4",
         "video2": "videos/2667_001.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/6086_009.mp4",
@@ -2097,7 +2097,7 @@
     {
         "video1": "videos/1938_001.mp4",
         "video2": "videos/2353_003.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/4753_033.mp4",
@@ -2122,7 +2122,7 @@
     {
         "video1": "videos/3586_007.mp4",
         "video2": "videos/508_009.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1272_000.mp4",
@@ -2222,7 +2222,7 @@
     {
         "video1": "videos/2035_000.mp4",
         "video2": "videos/984_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1329_001.mp4",
@@ -2247,7 +2247,7 @@
     {
         "video1": "videos/4681_010.mp4",
         "video2": "videos/4835_010.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/1073_003.mp4",
@@ -2367,7 +2367,7 @@
     {
         "video1": "videos/2670_008.mp4",
         "video2": "videos/4530_004.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1073_003.mp4",
@@ -2462,12 +2462,12 @@
     {
         "video1": "videos/4748_005.mp4",
         "video2": "videos/6077_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/3874_002.mp4",
         "video2": "videos/2048_002.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/3170_010.mp4",
@@ -2557,7 +2557,7 @@
     {
         "video1": "videos/2852_008.mp4",
         "video2": "videos/591_001.mp4",
-        "similarity": 1.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/5935_001.mp4",
@@ -2612,7 +2612,7 @@
     {
         "video1": "videos/6068_002.mp4",
         "video2": "videos/4681_010.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/121_003.mp4",
@@ -2637,7 +2637,7 @@
     {
         "video1": "videos/5429_002.mp4",
         "video2": "videos/6068_002.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/508_004.mp4",
@@ -2677,7 +2677,7 @@
     {
         "video1": "videos/334_003.mp4",
         "video2": "videos/930_003.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/2670_008.mp4",
@@ -2692,7 +2692,7 @@
     {
         "video1": "videos/2486_001.mp4",
         "video2": "videos/573_026.mp4",
-        "similarity": 4.0
+        "similarity": 3.0
     },
     {
         "video1": "videos/148_002.mp4",
@@ -2702,7 +2702,7 @@
     {
         "video1": "videos/2978_008.mp4",
         "video2": "videos/725_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2737_001.mp4",
@@ -2752,12 +2752,12 @@
     {
         "video1": "videos/3941_003.mp4",
         "video2": "videos/420_007.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1954_002.mp4",
         "video2": "videos/1421_010.mp4",
-        "similarity": 2.0
+        "similarity": 1.0
     },
     {
         "video1": "videos/2257_040.mp4",
@@ -2787,7 +2787,7 @@
     {
         "video1": "videos/2200_000.mp4",
         "video2": "videos/3156_002.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/2105_017.mp4",
@@ -2862,7 +2862,7 @@
     {
         "video1": "videos/2670_008.mp4",
         "video2": "videos/3417_009.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/4517_006.mp4",
@@ -2932,7 +2932,7 @@
     {
         "video1": "videos/4473_005.mp4",
         "video2": "videos/2268_002.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/1281_017.mp4",
@@ -2947,7 +2947,7 @@
     {
         "video1": "videos/1289_007.mp4",
         "video2": "videos/495_001.mp4",
-        "similarity": 3.0
+        "similarity": 2.0
     },
     {
         "video1": "videos/3689_002.mp4",
